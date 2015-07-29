@@ -2,8 +2,6 @@
 
 ## Please Read Everything Before Proceeding...
 
-### Introduction
-
 Welcome to the Codesmith Precourse
 
 This is the precourse that you'll be working through. Much may be familiar, especially in the first portion but be patient - there will be bonus intriguing blog posts, solo challenges, projects and pair-programming challenges in every section that will stretch you.
