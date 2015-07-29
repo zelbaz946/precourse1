@@ -1,4 +1,5 @@
-# WELCOME!!! Please Read Everything Before Proceeding...
+# WELCOME!!! 
+Please Read Everything Before Proceeding...
 
 ## Codesmith Precourse Introduction
 
