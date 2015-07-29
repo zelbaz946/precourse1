@@ -1,7 +1,8 @@
-# WELCOME!!! 
-Please Read Everything Before Proceeding...
+# WELCOME TO THE CODESMITH PRECOURSE!!! 
 
-## Codesmith Precourse Introduction
+## Please Read Everything Before Proceeding...
+
+## Introduction
 
 Welcome to the Codesmith Precourse
 
