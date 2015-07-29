@@ -1,2 +1,2 @@
-# precourse-part1
+# Precourse (Part 1)
 
