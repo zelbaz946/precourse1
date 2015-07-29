@@ -2,7 +2,7 @@
 
 ## Please Read Everything Before Proceeding...
 
-## Introduction
+### Introduction
 
 Welcome to the Codesmith Precourse
 
