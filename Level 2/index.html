@@ -1,0 +1,20 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>JS-Fundamental Test Suite</title>
+  <link rel="stylesheet" href="test/lib/mocha/mocha.css" />
+</head>
+<script src="test/lib/scroll.js"></script>
+<body onload="loadScroll()" onunload="saveScroll()">
+  <div id="mocha"></div>
+  <script src="test/lib/mocha/mocha.js"></script>
+  <script>mocha.setup('bdd')</script>
+  <script src="test/lib/expect/index.js"></script>
+  <script src="src/week-2-assessment.js"></script>
+  <script src="test/week-2-assessment-tests.js"></script>
+  <script>
+    if (window.mochaPhantomJS) { mochaPhantomJS.run(); }
+    else { mocha.globals(); mocha.run(); }
+  </script>
+</body>
+</html>
