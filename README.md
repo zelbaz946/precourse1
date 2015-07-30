@@ -8,7 +8,7 @@ The precourse is designed to help you become experience in the fundamental javas
 
 This precourse will truly help you understand the core material and get you ready for our fulltime program. Plus, it is a great opportunity for you to show us that you can handle our rigorous curriculum.
 
-If this is challenging, don't be worrried! Getting used to the challenge will be a great asset for you in our program.
+If this is challenging, don't be worrried! Getting used to the challenge will be a great asset to you in our program.
 
 ## You Need To Know How To Use GitHub!
 
