@@ -1,0 +1,20 @@
+{
+  "name": "precourse-part-6-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha-pa test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5",
+    "mocha-phantomjs": "^3.5.3",
+    "phantomjs": "^1.9.17"
+  }
+}
