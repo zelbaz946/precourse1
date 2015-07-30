@@ -2,7 +2,7 @@
 
 ## Please Read Everything Before Proceeding...
 
-Welcome To Codesmith Precourse
+Welcome To Codesmith Precourse.
 
 The precourse is designed to help you become experience in the fundamental javascript concepts. Much of the challenges may be familiar, especially in the first portiosn but please be patient since a big end project awaits where you will utilize all your javascript skills to create an "Instagram" clone in part 2 of the precourse. We aspire you to be proficient in your javascript skills and become a better programmer through the process.
 
