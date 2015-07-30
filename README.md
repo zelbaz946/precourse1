@@ -1,4 +1,4 @@
-# WELCOME TO THE CODESMITH PRECOURSE!!! 
+# WELCOME TO CODESMITH PRECOURSE!!! 
 
 ## Please Read Everything Before Proceeding...
 
