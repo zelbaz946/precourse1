@@ -16,7 +16,7 @@ It is really important that you get familiar with github. We will provide you wi
 
 ## Instructions For The Precourse Challenges:
 
-We divided the precourse challenges into six different levels. Each level has its own folder. Each folder consists of four items:
+We divided the precourse challenges into six different levels. Each level has its own folder. Each folder consists of four items (ignore any other files/folders or items you see):
 
 - Instructions File ("README.md")
 - Source Folder ("src")
