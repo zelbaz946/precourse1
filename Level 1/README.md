@@ -15,9 +15,11 @@ Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
 <http://www.codecademy.com/courses/getting-started-v2/0/1>
 Tutorial homepage: <http://www.codecademy.com/en/tracks/javascript>
 
-*Complete:* 
+*Read:* 
 - <http://www.w3schools.com/js/default.asp>
 - <http://www.w3schools.com/js/js_intro.asp>
+- <http://www.w3schools.com/js/js_syntax.asp>
+- <http://www.w3schools.com/js/js_comments.asp>
 
 ## Variables
 Codecademy - Javascript - Getting Started with Programming (Parts 24-28)
@@ -35,6 +37,9 @@ Codeschool - Javascript Roadtrip - Variable Valley
 Javascript quirk - unknown variable names create global variables
 <http://www.2ality.com/2013/04/quirk-automatic-globals.html>
 
+*Read:* 
+- <http://www.w3schools.com/js/js_variables.asp>
+
 ## Data Types
 Codecademy - Javascript - Getting Started with Programming (Parts 18-23)
 <http://www.codecademy.com/courses/getting-started-v2/3/1>
@@ -48,11 +53,17 @@ Codeschool - Javascript Roadtrip - The Cliffs of Value - Booleans the true path
 Codeschool - Javascript Roadtrip - The Cliffs of Value - Strings on signs
 <http://javascript-roadtrip.codeschool.com/levels/1/challenges/7 >
 
+*Read:* 
+- <http://www.w3schools.com/js/js_datatypes.asp>
+
 ## Operators
 Codecademy - Javascript - Getting Started with Programming (Parts 13-17)
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
 
-*Complete:*
+*Read:* 
+- <http://www.w3schools.com/js/js_operators.asp>
+- <http://www.w3schools.com/js/js_arithmetic.asp>
+- <http://www.w3schools.com/js/js_assignment.asp>
 
 ## Functions
 Codecademy - Javascript - Introduction to Variables in JavaScript
@@ -79,6 +90,9 @@ Named vs Anonymous Functions
 Immediately Invoked Function Expressions
 <http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#iife>
 
+*Read:* 
+- <http://www.w3schools.com/js/js_functions.asp>
+
 ## Conditionals (if/else)
 
 Codecademy - Javascript - More on Control Flow in JS
@@ -101,3 +115,8 @@ Two Things About Conditionals in JavaScript
 
 Switch Case Considered Harmful
 <http://ericleads.com/2012/12/switch-case-considered-harmful/>
+
+*Read:* 
+- <http://www.w3schools.com/js/js_comparisons.asp>
+- <http://www.w3schools.com/js/js_if_else.asp>
+- <http://www.w3schools.com/js/js_switch.asp>
