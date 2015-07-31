@@ -59,3 +59,30 @@ width="240" height="180" border="10" /></a>
 
 *Complete:*
 
+## Problem solving as a software engineer
+
+How to become a programmer, or the art of Googling well
+<https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/>
+
+How to ask a good question on Stackoverflow
+<http://stackoverflow.com/help/how-to-ask>
+
+How to ask smart questions as a software engineer
+<http://www.catb.org/~esr/faqs/smart-questions.html>
+
+*Complete:*
+
+## Software engineer career
+
+Map of modern software engineering
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zXqs6X0lzKI
+" target="_blank"><img src="http://img.youtube.com/vi/zXqs6X0lzKI/0.jpg"
+width="240" height="180" border="10" /></a>
+
+<https://www.youtube.com/watch?v=zXqs6X0lzKI>
+
+Imposter syndrome (we're all in this together)
+<http://www.hanselman.com/blog/ImAPhonyAreYou.aspx>
+
+*Complete:*
