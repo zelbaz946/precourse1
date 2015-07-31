@@ -16,8 +16,8 @@ Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
 Tutorial homepage: <http://www.codecademy.com/en/tracks/javascript>
 
 *Complete:* 
-<http://www.w3schools.com/js/default.asp>
-<http://www.w3schools.com/js/js_intro.asp>
+- <http://www.w3schools.com/js/default.asp>
+- <http://www.w3schools.com/js/js_intro.asp>
 
 ## Variables
 Codecademy - Javascript - Getting Started with Programming (Parts 24-28)
