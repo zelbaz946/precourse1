@@ -14,10 +14,10 @@ Topics Covered
 Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
 <http://www.codecademy.com/courses/getting-started-v2/0/1>
 Tutorial homepage: <http://www.codecademy.com/en/tracks/javascript>
-<http://www.w3schools.com/js/default.asp>
-http://www.w3schools.com/js/js_intro.asp
 
-*Complete: *
+*Complete:* 
+<http://www.w3schools.com/js/default.asp>
+<http://www.w3schools.com/js/js_intro.asp>
 
 ## Variables
 Codecademy - Javascript - Getting Started with Programming (Parts 24-28)
