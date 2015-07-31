@@ -59,4 +59,4 @@ That means you need to `git add` and `git commit` then `git push` your progress 
 
 6. Now we're going to 'push' your code up to your github.com profile so we (the Codesmith team) can see it ![](https://www.dropbox.com/s/xnh7p6elzrvy6m2/git%20push.png?dl=1)
 
-7. Celebrate now that you have successfully worked through the git procedure :swimmer: :swimmer: :dancers: :dancers:
+7. Celebrate now that you have successfully worked through the git procedure :dancers: :dancers: :dancers:
