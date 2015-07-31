@@ -1,12 +1,3 @@
-// returns an empty array object. this object should have the following methods:
-// push(val) adds val to the end of the array
-// pop() removes a value from the end and returns it
-// unshift(val) adds val to the beginning of the array
-// shift() removes a value from the beginning and returns it
-function createArray() {
-
-}
-
 /*
  * Given an array of numbers, calculate the greatest contiguous sum of numbers in it.
  * A single array item will count as a contiguous sum.
@@ -25,8 +16,10 @@ function createArray() {
 // ex: sumArray([4, -1, 5]); -> 8
 // ex: sumArray([10,-11,11]) -> 11
 function sumArray(array) {
+	//CODE HERE
 
 }
+
 
 // Write a function that takes an array, a number, and any value as arguments.
 // The number is the minimum length we want the array to be. If the array length is
@@ -37,11 +30,23 @@ function sumArray(array) {
 // padArray([1, 3, 17], 2, 81);  -> [1, 3, 17]
 // padArray([1, 3, 17], 4);  -> [1, 3, 17, undefined]
 function padArray(array, min, value) {
+	//CODE HERE
 
 }
+
 
 // returns true if string is a palindrome (the string is the same forward and backwards). The parameters entered may have puncutations and symbols, but they should not affect whether the string is a palindrome
 // ex: palindrome("Anne, I vote more cars race Rome-to-Vienna"); -> true
 function palindrome(string) {
+	//CODE HERE
+
+}
+
+
+// returns true if the first set is a subset of the second set
+// isSubsetOf([1,2,3],[1,2,3,4]); -> true
+// isSubsetOf([1,2,3],[1,2]); -> false
+function isSubsetOf(set1, set2) {
+	//CODE HERE
 
 }

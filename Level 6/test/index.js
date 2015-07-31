@@ -27,14 +27,15 @@ describe('Precourse Part 6 Assessment', function() {
     });
   });
 
-  describe('isSubsetOf', function() {
-    it('should return true when set1 is subset of set2', function() {
-      expect(isSubsetOf([1,2,3],[1,2,3])).to.eql(true);
-      expect(isSubsetOf([1,2,3],[1,2,3,4])).to.eql(true);
-    });
-    it('should return false when set1 is not a subset of set2', function() {
-      expect(isSubsetOf([1,2,3],[1,2]));
-      expect(isSubsetOf([1,2],[1]));
+  describe('once', function() {
+    it("should only run a user-defined function if it hasn't been run before", function() {
+      var num = 0;
+      var increment = once(function() {
+        num += 1;
+      });
+      increment();
+      increment();
+      expect(num).to.equal(1);
     });
   });
 

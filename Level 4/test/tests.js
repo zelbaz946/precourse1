@@ -1,52 +1,6 @@
 var array;
-describe('Precourse Week 4 Assessment', function() {
-  describe('createArray', function() {
-    beforeEach(function() {
-      array = new createArray();
-    });
-    it('should have push and pop method', function() {
-      expect(array).to.have.property('push');
-      expect(array.push).to.be.a('function');
-      expect(array).to.have.property('pop');
-      expect(array.pop).to.be.a('function');
-    });
-
-    it('should push and pop single value', function() {
-      array.push(0);
-      expect(array.pop()).to.be(0);
-    });
-
-    it('should push and pop multiple values', function() {
-      array.push(0);
-      array.push(1);
-      array.push(2);
-      expect(array.pop()).to.be(2);
-      expect(array.pop()).to.be(1);
-      expect(array.pop()).to.be(0);
-    });
-
-    it('should have shift and unshift method', function() {
-      expect(array).to.have.property('shift');
-      expect(array.shift).to.be.a('function');
-      expect(array).to.have.property('unshift');
-      expect(array.unshift).to.be.a('function');
-    });
-
-    it('should unshift and shift single value', function() {
-      array.unshift(0);
-      expect(array.shift()).to.be(0);
-    });
-
-    it('should unshift and shift multiple values', function() {
-      array.unshift(0);
-      array.unshift(1);
-      array.unshift(2);
-      expect(array.shift()).to.be(2);
-      expect(array.shift()).to.be(1);
-      expect(array.shift()).to.be(0);
-    });
-  });
-
+describe('Level 4 Challenges...', function() {
+  
   describe('sumArray', function() {
     it('should find the largest continguous sum', function() {
       expect(sumArray([1,2,3])).to.eql(6);
@@ -91,4 +45,15 @@ describe('Precourse Week 4 Assessment', function() {
       expect(palindrome("Anne, I vote more cars race Rome-to-Vienna")).to.eql(true);
     });
   })
+
+  describe('isSubsetOf', function() {
+    it('should return true when set1 is subset of set2', function() {
+      expect(isSubsetOf([1,2,3],[1,2,3])).to.eql(true);
+      expect(isSubsetOf([1,2,3],[1,2,3,4])).to.eql(true);
+    });
+    it('should return false when set1 is not a subset of set2', function() {
+      expect(isSubsetOf([1,2,3],[1,2]));
+      expect(isSubsetOf([1,2],[1]));
+    });
+  });
 });
