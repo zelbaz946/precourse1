@@ -24,3 +24,38 @@ We divided the precourse challenges into six different levels. Each level has it
 - Index File ("index.html")
 
 Please read the instructions ("README.md") file before attempting any of the challenges. You will only modify the codes inside the "main.js" file located in the source ("src") folder; make sure to read any comments inside the "main.js" file. DO NOT CHANGE anything in any other files or folders. You may take a look at the test folder to inquire how we are testing the correctness of the challenges. After you are done with each challenge open the index file (index.html) on the browser (Chrome or Firefox) to display the test results. For incorrect result, a red "x mark" will display beside thine test that did not pass and for correct result, a green "check mark" will display bside the test that passed. We encourage you to look at the displayed error message; it will help you figure out what you might need to fix.
+
+## Setting up Sublime Text (if you need to)
+
+Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, autocomplete of terms and automatic indentation of our code
+
+Download Sublime Text 2:
+<http://www.sublimetext.com/2>
+
+Sublime Text Introduction
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SVkR1ZkNusI
+" target="_blank"><img src="http://img.youtube.com/vi/SVkR1ZkNusI/0.jpg"
+width="240" height="180" border="10" /></a>
+
+<https://www.youtube.com/watch?v=SVkR1ZkNusI>
+
+Sublime Text Line and Indentation Tools
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_JFIeY46sIU
+" target="_blank"><img src="http://img.youtube.com/vi/_JFIeY46sIU/0.jpg"
+width="240" height="180" border="10" /></a>
+
+<https://www.youtube.com/watch?v=_JFIeY46sIU>
+
+Sublime Text Goto Anything
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FT3CeRSiO6s
+" target="_blank"><img src="http://img.youtube.com/vi/FT3CeRSiO6s/0.jpg"
+width="240" height="180" border="10" /></a>
+
+<https://www.youtube.com/watch?v=FT3CeRSiO6s>
+
+*Complete:*
+
