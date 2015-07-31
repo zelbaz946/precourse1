@@ -1,5 +1,5 @@
 var spy;
-describe('Precourse Week 5 Assessment', function() {
+describe('Level 5 Challenges...', function() {
 
   describe('indexOf', function() {
     it('should have 40 in the list', function() {
