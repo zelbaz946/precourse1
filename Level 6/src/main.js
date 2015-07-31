@@ -9,23 +9,35 @@
 //   </div>
 // </div>
 function nestingNodes() {
+	//CODE HERE
 
 }
 
 
-// returns true if the first set is a subset of the second set
-// isSubsetOf([1,2,3],[1,2,3,4]); -> true
-// isSubsetOf([1,2,3],[1,2]); -> false
-function isSubsetOf(set1, set2) {
+//takes a string in JSON format and converts it to a javascript object
+function jsonParse(string) {
+	//CODE HERE
+	
+}
+
+
+// Returns a function that is restricted to invoking func once.
+// Repeat calls to the function return the value of the first call.
+function once(func) {
+	//CODE HERE
 
 }
+
 
 // returns a randomly shuffled version of a 52 card playing deck. The input will be an ordered 52 card deck (the output of ordered deck);
 function shuffleDeck(deck) {
+	//CODE HERE
 
 }
 
+
 // Ordered deck generator provided for your testing convenience
+// DO NOT modify this function. It exists for testing purpose, only.
 function orderedDeck() {
   var suits = [ '♥', '♣', '♠', '♦' ];
   var values = [ 'A', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K' ];
@@ -41,8 +53,4 @@ function orderedDeck() {
 }
 
 
-//takes a string in JSON format and converts it to a javascript object
-function jsonParse(string) {
-
-}
 

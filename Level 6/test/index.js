@@ -1,5 +1,5 @@
 var deck;
-describe('Precourse Part 6 Assessment', function() {
+describe('Level 6 Challenges...', function() {
   describe('nestingNodes', function() {
     it('should nest two divs', function() {
       var outer = document.createElement('div');
@@ -27,14 +27,25 @@ describe('Precourse Part 6 Assessment', function() {
     });
   });
 
-  describe('isSubsetOf', function() {
-    it('should return true when set1 is subset of set2', function() {
-      expect(isSubsetOf([1,2,3],[1,2,3])).to.eql(true);
-      expect(isSubsetOf([1,2,3],[1,2,3,4])).to.eql(true);
+  describe('jsonParse', function() {
+    it('should convert JSON with simple values', function() {
+      expect(jsonParse("{\"a\":1, \"b\":2}")).to.eql({a:1, b:2});
     });
-    it('should return false when set1 is not a subset of set2', function() {
-      expect(isSubsetOf([1,2,3],[1,2]));
-      expect(isSubsetOf([1,2],[1]));
+
+    it('should convert JSON with space separated strings', function() {
+      expect(jsonParse("{\"lol\":\"laugh out loud\", \"whatever\":\"we want\"}")).to.eql({lol:"laugh out loud", whatever:"we want"});
+    });
+  });
+  
+  describe('once', function() {
+    it("should only run a user-defined function if it hasn't been run before", function() {
+      var num = 0;
+      var increment = once(function() {
+        num += 1;
+      });
+      increment();
+      increment();
+      expect(num).to.equal(1);
     });
   });
 
@@ -54,16 +65,6 @@ describe('Precourse Part 6 Assessment', function() {
         checkDeck(shuffleDeck(orderedDeck()));
       }
     })
-  });
-
-  describe('jsonParse', function() {
-    it('should convert JSON with simple values', function() {
-      expect(jsonParse("{\"a\":1, \"b\":2}")).to.eql({a:1, b:2});
-    });
-
-    it('should convert JSON with space separated strings', function() {
-      expect(jsonParse("{\"lol\":\"laugh out loud\", \"whatever\":\"we want\"}")).to.eql({lol:"laugh out loud", whatever:"we want"});
-    });
   });
 
 });

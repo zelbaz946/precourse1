@@ -1,15 +1,14 @@
-// Returns a function that is restricted to invoking func once. Repeat calls to the function return the value of the first call.
-function once(func) {
-
-}
-
-// Creates an array without duplicate values. The order of the array is preserved.
+// Creates an array without duplicate values from the inputted array.
+// The order of the array is preserved.
 // uniq([1,2,1]); → [1,2]
 function uniq(array) {
+	//CODE HERE
 
 }
 
-// Using a for loop, call the functions in the queue in order with the input number, where the results of each function become the next function’s input.
+// Using a FOR LOOP, call the functions in the queue in order with the input number,
+// where the results of each function become the next function’s input.
+// EXAMPLE:
 /* var puzzlers = [
   function(a) { return 8 * a - 10; },
   function(a) { return (a - 3) * (a - 3) * (a - 3); },
@@ -20,5 +19,17 @@ var start = 2;
 applyAndEmpty(2, puzzlers); → 3
 */
 function applyAndEmpty(input, queue) {
+	//CODE HERE
+
+}
+
+
+// returns an empty array object. this object should have the following methods:
+// push(val) adds val to the end of the array
+// pop() removes a value from the end and returns it
+// unshift(val) adds val to the beginning of the array
+// shift() removes a value from the beginning and returns it
+function createArray() {
+	//CODE HERE
 
 }

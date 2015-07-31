@@ -1,5 +1,5 @@
 var spy;
-describe('Precourse Week 5 Assessment', function() {
+describe('Level 5 Challenges...', function() {
 
   describe('indexOf', function() {
     it('should have 40 in the list', function() {
@@ -23,6 +23,14 @@ describe('Precourse Week 5 Assessment', function() {
     });
   });
 
+  describe('every', function() {
+    it('should check if all elements are odd', function() {
+      var isOdd = function(num) { return num % 2 !== 0; };
+      expect(every([1, 3, 5], isOdd)).to.be(true);
+      expect(every([1, 4, 5], isOdd)).to.be(false);
+    });
+  });
+  
   describe('each', function() {
     it('should iterate over arrays, providing access to the element, index, and array itself', function() {
       var fruits = ['apple', 'banana', 'carrot'];
@@ -65,13 +73,4 @@ describe('Precourse Week 5 Assessment', function() {
       expect(odds).to.eql([1, 3, 5]);
     });
   });
-
-  describe('every', function() {
-    it('should check if all elements are odd', function() {
-      var isOdd = function(num) { return num % 2 !== 0; };
-      expect(every([1, 3, 5], isOdd)).to.be(true);
-      expect(every([1, 4, 5], isOdd)).to.be(false);
-    });
-  });
-
 });

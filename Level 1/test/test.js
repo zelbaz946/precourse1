@@ -1,4 +1,4 @@
-describe('Unit 1 Challenges...', function() {
+describe('Level 1 Challenges...', function() {
   describe('addTwo', function() {
     it('should add two to inputted number', function() {
       expect(addTwo(0)).to.eql(2);
