@@ -1,38 +1,46 @@
-// returns the sum of the previous numbers
-// n + (n-1) + (n-2) ....
-// sumRecursion(1); -> 1
-// sumRecursion(2); -> 3
-// sumRecursion(3); -> 6
-// sumRecursion(4); -> 10
-// should also work with negative numbers
-// sumRecursion(-1); -> -1
-// sumRecursion(-2); -> -3
-// sumRecursion(-3); -> -6
-// sumRecursion(-4); -> -10
-var obj = {};
-obj.sumBehind = function(n) {
-
-}
-
-// iterate over the above example using recursion
-var recursionObj = {};
-recursionObj.sumBehindRecursion = function(n) {
-
-}
-
-// returns the first nonrepeated character in a string
-// firstNonrepeatedCharacter('ABA'); -> 'A'
-// firstNonrepeatedCharacter('AACBDB')
-function firstNonrepeatedCharacter(string) {
+// Gets the index at which the first occurrence of value is found in array
+// Returns -1 if element is not in array
+// DO NOT USE THE BUILT-IN INDEXOF function
+// indexOf([11,22,33], 11); → 0
+// indexOf([11,22,33], 5); → -1
+function indexOf(array, value) {
 
 }
 
 
-// reverses the order of the child nodes of dom element
-// reverseNodeOrder(<div><div class="1"></div><div class="2"></div><div>);
-// <div><div class="2"></div><div class="1"></div><div>
-// reverseNodeOrder(<div><div class="1"></div><div class="2"></div><div class="3"></div><div>);
-// <div><div class="3"></div><div class="2"></div><div class="1"></div><div>
-function reverseNodeOrder(dom) {
+// Iterates over elements of an array invoking callback for each element. The callback should be passed the element, the current index, and the entire array.
+// var callback = function(element, index, array) {
+//  console.log(element +"," +index +"," +array);
+// }
+// each(['a','b','c'], callback); → prints a,0,[1,2,3] b,1,[1,2,3] c,2,[1,2,3]
+// For each element in the array, the callback we passed is called. The callback can be customized, but in the above example, the callback prints out the element, index, and entire array.
+function each(array, callback) {
+
+}
+
+
+// EXTENSION
+// Iterates over elements of collection, returning an array of all elements callback returns truthy for.
+// filter([1,2,3,4], function(element, index, collection) {
+//  return element % 2 === 0;
+// }); → [2,4]
+// filter({a: 1, b: 2,c: 3,d: 4}, function(element, index, collection) {
+//  return element % 2 !== 0;
+// }); → [1,3]
+function select(collection, callback) {
+
+}
+
+// Takes an array and a callback as arguments.
+// Returns true if the callback produces true when each array element is passed to it.
+// Otherwise it returns false.
+// every([2, 4, 6], function(elem) {
+//   return elem % 2 == 0;
+// });  -> true
+// every([2, 4, 7], function(elem) {
+//   return elem % 2 == 0;
+// });  -> false
+// BONUS: use reduce in your answer
+function every(array, func) {
 
 }

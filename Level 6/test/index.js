@@ -55,6 +55,17 @@ describe('Precourse Part 6 Assessment', function() {
       }
     })
   });
+
+  describe('jsonParse', function() {
+    it('should convert JSON with simple values', function() {
+      expect(jsonParse("{\"a\":1, \"b\":2}")).to.eql({a:1, b:2});
+    });
+
+    it('should convert JSON with space separated strings', function() {
+      expect(jsonParse("{\"lol\":\"laugh out loud\", \"whatever\":\"we want\"}")).to.eql({lol:"laugh out loud", whatever:"we want"});
+    });
+  });
+
 });
 
 function createNesting(num) {

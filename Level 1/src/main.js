@@ -78,29 +78,6 @@ function isOdd(num) {
 }
 
 
-// determines if the number is even
-// outputs true if the number is even
-// output false if the number is odd
-// ex: isEven(4); -> true
-// ex: isEven(5); -> false
-function isEven(num) {
-	//CODE HERE
-
-}
-
-
-// determines if the number is positive
-// outputs true if the number is positive
-// outputs false if the number is zero or negative
-// ex: isPositive(1); -> true
-// ex: isPositive(-1); -> false
-// ex: isPositive(0); -> false
-function isPositive(num) {
-	//CODE HERE
-
-}
-
-
 // determines if the number is negative
 // outputs true if the number is positive
 // outputs false if the number is zero or negative
@@ -121,11 +98,3 @@ function positive(num) {
 
 }
 
-
-// returns the negative of the absolute value of the inputted number
-// ex: negative(-1); -> -1
-// ex: negative(1); -> -1
-function negative(num) {
-	//CODE HERE
-
-}

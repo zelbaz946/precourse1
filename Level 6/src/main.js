@@ -39,3 +39,10 @@ function orderedDeck() {
 
   return deck;
 }
+
+
+//takes a string in JSON format and converts it to a javascript object
+function jsonParse(string) {
+
+}
+

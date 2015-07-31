@@ -88,40 +88,6 @@ describe('Unit 1 Challenges...', function() {
     });
   });
 
-  describe('isEven', function() {
-    it('should return true for even numbers', function() {
-      expect(isEven(2)).to.eql(true);
-      expect(isEven(4)).to.eql(true);
-      expect(isEven(6)).to.eql(true);
-      expect(isEven(8)).to.eql(true);
-    });
-
-    it('should return false for false numbers', function() {
-      expect(isEven(1)).to.eql(false);
-      expect(isEven(3)).to.eql(false);
-      expect(isEven(5)).to.eql(false);
-      expect(isEven(7)).to.eql(false);
-    });
-  });
-
-  describe('isPositive', function() {
-    it('should return true for positive numbers', function() {
-      expect(isPositive(1)).to.eql(true);
-      expect(isPositive(2)).to.eql(true);
-      expect(isPositive(3)).to.eql(true);
-    });
-
-    it('should return false for negative numbers', function() {
-      expect(isPositive(-1)).to.eql(false);
-      expect(isPositive(-2)).to.eql(false);
-      expect(isPositive(-3)).to.eql(false);
-    });
-
-    it('should return false for zero', function() {
-      expect(isPositive(0)).to.eql(false);
-    });
-  });
-
   describe('isNegative', function() {
     it('should return true for negative numbers', function() {
       expect(isNegative(-1)).to.eql(true);
@@ -147,10 +113,4 @@ describe('Unit 1 Challenges...', function() {
     });
   });
 
-  describe('negative', function() {
-    it('should return only the negative value of the number', function() {
-      expect(negative(1)).to.eql(-1);
-      expect(negative(-1)).to.eql(-1);
-    });
-  });
 });
