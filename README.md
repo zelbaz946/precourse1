@@ -16,7 +16,7 @@ It is really important that you get familiar with github. We will provide you wi
 
 ## Instructions For The Precourse Challenges:
 
-We divided the precourse challenges into six different levels. Each level has its own folder. Each folder consists of four items (ignore any other files/folders or items you see):
+We divided the precourse challenges into three different levels. Each level has its own folder. Each folder consists of four items (ignore any other files/folders or items you see):
 
 - Instructions File ("README.md")
 - Source Folder ("src")
@@ -39,25 +39,6 @@ Sublime Text Introduction
 width="240" height="180" border="10" /></a>
 
 <https://www.youtube.com/watch?v=SVkR1ZkNusI>
-
-Sublime Text Line and Indentation Tools
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_JFIeY46sIU
-" target="_blank"><img src="http://img.youtube.com/vi/_JFIeY46sIU/0.jpg"
-width="240" height="180" border="10" /></a>
-
-<https://www.youtube.com/watch?v=_JFIeY46sIU>
-
-Sublime Text Goto Anything
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=FT3CeRSiO6s
-" target="_blank"><img src="http://img.youtube.com/vi/FT3CeRSiO6s/0.jpg"
-width="240" height="180" border="10" /></a>
-
-<https://www.youtube.com/watch?v=FT3CeRSiO6s>
-
-*Complete:*
 
 ## Problem solving as a software engineer
 
