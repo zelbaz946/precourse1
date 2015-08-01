@@ -16,7 +16,8 @@ Codecademy - Javascript - Introduction to Variables in JavaScript
 Codecademy - Javascript - Build "Rock, Paper, Scissors"
 <http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
 
-*Complete:*
+##### Read
+- <http://www.w3schools.com/js/js_functions.asp>
 
 ##### Bonus
 
@@ -42,7 +43,9 @@ Codecademy - Javascript - Arrays and Objects
 Codecademy - Javascript - Contact List
 <http://www.codecademy.com/courses/javascript-beginner-en-3bmfN/0/1>
 
-*Complete:*
+##### Read
+- <http://www.w3schools.com/js/js_objects.asp>
+- <http://www.w3schools.com/js/js_arrays.asp>
 
 ##### Bonus
 
@@ -68,7 +71,11 @@ Codecademy - Javascript - Building a Cash Register
 Codeschool - Javascript Roadtrip Part 2 - Built-In's Bluff
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
 
-*Complete:*
+##### Read
+- <http://www.w3schools.com/js/js_scope.asp>
+- <http://www.w3schools.com/js/js_array_methods.asp>
+- <http://www.w3schools.com/js/js_number_methods.asp>
+- <http://www.w3schools.com/js/js_string_methods.asp>
 
 ##### Extension
 
@@ -88,7 +95,9 @@ Codecademy - Javascript - Introduction to 'While' Loops
 Codecademy - Javascript - Dragon Slayer!
 <http://www.codecademy.com/courses/javascript-beginner-en-mrTNH-6VIZ9/0/1>
 
-*Complete:*
+##### Read
+- <http://www.w3schools.com/js/js_loop_for.asp>
+- <http://www.w3schools.com/js/js_loop_while.asp>
 
 ##### Bonus
 
@@ -99,26 +108,3 @@ Codeschool - Javascript Roadtrip Part 2 - The Labyrinth of Loops
 
 Paradigms of Iteration in JavaScript
 <http://www.newmediacampaigns.com/blog/paradigms-of-iteration-in-javascript>
-
-## Conditionals (if/else)
-
-Codecademy - Javascript - More on Control Flow in JS
-<http://www.codecademy.com/courses/javascript-beginner-en-qDwp0/0/1>
-
-Codecademy - Javascript - Choose Your Own Adventure 2!
-<http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1>
-
-*Complete:*
-
-##### Bonus
-
-Codeschool - Javascript Roadtrip Part 2 - Conditional Canyon
-<https://www.codeschool.com/courses/javascript-road-trip-part-2>
-
-##### Extension
-
-Two Things About Conditionals in JavaScript
-<http://rmurphey.com/blog/2012/12/10/js-conditionals/>
-
-Switch Case Considered Harmful
-<http://ericleads.com/2012/12/switch-case-considered-harmful/>
