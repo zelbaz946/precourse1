@@ -52,6 +52,13 @@ Codecademy - Javascript - Getting Started with Programming
 
 ## Closures
 
+##### Read
+- <http://www.w3schools.com/js/js_function_closures.asp>
+
+##### Extension
+- <http://www.sitepoint.com/javascript-closures-demystified/>
+
+##### Bonus (optional)
 - Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Tracing, building and using closures
 <http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/1>
 - Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Modifying bound values after closure
