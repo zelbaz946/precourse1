@@ -51,8 +51,6 @@ How to ask a good question on Stackoverflow
 How to ask smart questions as a software engineer
 <http://www.catb.org/~esr/faqs/smart-questions.html>
 
-*Complete:*
-
 ## Software engineer career
 
 Map of modern software engineering
@@ -65,5 +63,3 @@ width="240" height="180" border="10" /></a>
 
 Imposter syndrome (we're all in this together)
 <http://www.hanselman.com/blog/ImAPhonyAreYou.aspx>
-
-*Complete:*
