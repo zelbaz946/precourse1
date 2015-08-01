@@ -16,6 +16,15 @@ Codecademy - Javascript - Arrays and Objects
 Codecademy - Javascript - Contact List
 <http://www.codecademy.com/courses/javascript-beginner-en-3bmfN/0/1>
 
+Codeschool - Javascript Roadtrip Part 3 - Object Creation and Manipulation
+<http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/1>
+
+Codeschool - Javascript Roadtrip Part 3 - Functionality in objects
+<http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/10>
+
+Codeschool - Javascript Roadtrip Part 3 - Using enumeration
+<http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/16>
+
 ##### Read
 - <http://www.w3schools.com/js/js_arrays.asp>
 - <http://www.w3schools.com/js/js_object_definition.asp>
