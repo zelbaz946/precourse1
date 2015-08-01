@@ -11,24 +11,29 @@ Topics Covered
 - Control flow (conditions - if/else)
 
 ## Basics
-Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
-<http://www.codecademy.com/courses/getting-started-v2/0/1>
-Tutorial homepage: <http://www.codecademy.com/en/tracks/javascript>
 
-##### Read 
+#### Read 
 - <http://www.w3schools.com/js/default.asp>
 - <http://www.w3schools.com/js/js_intro.asp>
 - <http://www.w3schools.com/js/js_syntax.asp>
 - <http://www.w3schools.com/js/js_comments.asp>
 
+#### Brush Up Your Skills (if needed)
+Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
+<http://www.codecademy.com/courses/getting-started-v2/0/1>
+Tutorial homepage: <http://www.codecademy.com/en/tracks/javascript>
+
 ## Variables
-Codecademy - Javascript - Getting Started with Programming (Parts 24-28)
-<http://www.codecademy.com/courses/getting-started-v2/4/1>
 
 ##### Read 
 - <http://www.w3schools.com/js/js_variables.asp>
 
-##### Bonus
+#### Brush Up Your Skills (if needed)
+
+Codecademy - Javascript - Getting Started with Programming (Parts 24-28)
+<http://www.codecademy.com/courses/getting-started-v2/4/1>
+
+#### Bonus
 
 Codeschool - Javascript Roadtrip - Variable Valley
 <http://javascript-roadtrip.codeschool.com/levels/2>
