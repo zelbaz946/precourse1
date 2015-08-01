@@ -4,7 +4,7 @@
 
 Topics Covered
 
-- Functions
+- Functions (More)
 - Basic data structures (arrays and objects)
 - Built In Functions
 - Iteration (for and while loops)
@@ -17,7 +17,10 @@ Codecademy - Javascript - Build "Rock, Paper, Scissors"
 <http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
 
 ##### Read
-- <http://www.w3schools.com/js/js_functions.asp>
+- <http://www.w3schools.com/js/js_function_definition.asp>
+- <http://www.w3schools.com/js/js_function_parameters.asp>
+- <http://www.w3schools.com/js/js_function_invocation.asp>
+- <http://www.w3schools.com/js/js_function_closures.asp>
 
 ##### Bonus
 
