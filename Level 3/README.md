@@ -7,7 +7,7 @@ Topics Covered
 - Basic data structures (more about arrays and objects)
 - Prototypes and inheritance
 
-## Basic data structures - more about arrays and objects
+## Basic data structures (more about arrays and objects)
 
 Codecademy - Javascript - Arrays and Objects
 <http://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1>
