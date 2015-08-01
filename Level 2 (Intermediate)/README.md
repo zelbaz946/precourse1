@@ -7,6 +7,7 @@
 - Functions (more)
 - Basic data structures (arrays and objects)
 - Built In Functions
+- Prototypes and inheritance
 - Iteration (for and while loops)
 
 ##### Brush Up Your Skills (if needed)
@@ -33,8 +34,10 @@
 ## Basic data structures - array and objects
 
 ##### Read
-- <http://www.w3schools.com/js/js_objects.asp>
+
 - <http://www.w3schools.com/js/js_arrays.asp>
+- <http://www.w3schools.com/js/js_objects.asp>
+- <http://www.w3schools.com/js/js_object_definition.asp>
 
 ##### Bonus (optional)
 
@@ -61,6 +64,22 @@
 
 - Codeschool - Javascript Roadtrip Part 2 - Built-In's Bluff
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
+
+## Prototypes and inheritance
+
+##### Read
+- <http://www.w3schools.com/js/js_object_prototypes.asp>
+- <http://www.w3schools.com/js/js_object_methods.asp>
+- <http://www.w3schools.com/js/js_lib_prototype.asp>
+
+##### Bonus (optional)
+
+- Codeschool - Javascript Roadtrip Part 3 - Prototypes and inheritance
+<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/1>
+- Codeschool - Javascript Roadtrip Part 3 - Inheritance and constructors
+<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/6>
+- Codeschool - Javascript Roadtrip Part 3 - Overriding prototypal methods
+<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/12>
 
 ## Iteration (for and while loops)
 
