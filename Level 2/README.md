@@ -20,7 +20,6 @@ Codecademy - Javascript - Build "Rock, Paper, Scissors"
 - <http://www.w3schools.com/js/js_function_definition.asp>
 - <http://www.w3schools.com/js/js_function_parameters.asp>
 - <http://www.w3schools.com/js/js_function_invocation.asp>
-- <http://www.w3schools.com/js/js_function_closures.asp>
 
 ##### Bonus
 
