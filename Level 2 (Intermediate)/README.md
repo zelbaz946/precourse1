@@ -1,4 +1,4 @@
-#Level 2 Challenges!
+# Intermediate Level Skill Builder!
 
 ## Please Read Before Proceeding With The Challenges...
 
