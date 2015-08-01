@@ -19,7 +19,7 @@
 - <http://www.w3schools.com/js/js_properties.asp>
 - <http://www.w3schools.com/js/js_object_methods.asp>
 
-##### Bonus
+##### Bonus (optional)
 - Codeschool - Javascript Roadtrip Part 3 - Object Creation and Manipulation
 <http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/1>
 - Codeschool - Javascript Roadtrip Part 3 - Functionality in objects
@@ -33,7 +33,7 @@
 - <http://www.w3schools.com/js/js_object_prototypes.asp>
 - <http://www.w3schools.com/js/js_lib_prototype.asp>
 
-##### Bonus
+##### Bonus (optional)
 
 - Codeschool - Javascript Roadtrip Part 3 - Prototypes and inheritance
 <http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/1>
