@@ -2,11 +2,15 @@
 
 ## Please Read Before Proceeding With The Challenges...
 
-Topics Covered
+####Topics Covered
 
 - Basic data structures (more about arrays and objects)
 - Prototypes and inheritance
 - Data structures
+
+#### Brush Up Your Skills (if needed)
+Codecademy - Javascript - Getting Started with Programming
+<http://www.codecademy.com/courses/getting-started-v2/2/2>
 
 ## Basic data structures (more about arrays and objects)
 
