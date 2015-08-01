@@ -20,7 +20,6 @@ Codecademy - Javascript - Getting Started with Programming
 - <http://www.w3schools.com/js/default.asp>
 - <http://www.w3schools.com/js/js_intro.asp>
 - <http://www.w3schools.com/js/js_syntax.asp>
-- <http://www.w3schools.com/js/js_comments.asp>
 
 ## Variables
 
