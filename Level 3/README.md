@@ -4,7 +4,7 @@
 
 Topics Covered
 
-- Arrays
+- Basic data structures (more about arrays and objects)
 - Prototypes and inheritance
 
 ## Basic data structures - array and objects
@@ -17,6 +17,10 @@ Codecademy - Javascript - Contact List
 
 ##### Read
 - <http://www.w3schools.com/js/js_arrays.asp>
+- <http://www.w3schools.com/js/js_object_definition.asp>
+- <http://www.w3schools.com/js/js_properties.asp>
+- <http://www.w3schools.com/js/js_object_methods.asp>
+- <http://www.w3schools.com/jsref/default.asp>
 
 ##### Bonus
 
@@ -33,3 +37,7 @@ Codeschool - Javascript Roadtrip Part 3 - Inheritance and constructors
 
 Codeschool - Javascript Roadtrip Part 3 - Overriding prototypal methods
 <http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/12>
+
+##### Read
+- <http://www.w3schools.com/js/js_object_prototypes.asp>
+- <http://www.w3schools.com/js/js_lib_prototype.asp>
