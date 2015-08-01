@@ -4,32 +4,14 @@
 
 ##### Topics Covered
 
-- Functions (more)
 - Basic data structures (arrays and objects)
 - Built In Functions
-- Prototypes and inheritance
 - Iteration (for and while loops)
+- Prototypes and inheritance
 
 ##### Brush Up Your Skills (if needed)
 - Codecademy - Javascript - Getting Started with Programming
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
-
-## Functions (more)
-
-##### Read
-- <http://www.w3schools.com/js/js_function_definition.asp>
-- <http://www.w3schools.com/js/js_function_parameters.asp>
-- <http://www.w3schools.com/js/js_function_invocation.asp>
-
-##### Extension
-
-- Function Expressions vs Function Declarations
-<http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/>
-
-##### Bonus (optional)
-
-- Codeschool - Javascript road trip Part 2 - The Desert of Declarations
-<https://www.codeschool.com/courses/javascript-road-trip-part-2>
 
 ## Basic data structures - array and objects
 
