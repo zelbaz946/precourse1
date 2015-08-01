@@ -28,7 +28,6 @@ Codeschool - Try jQuery - (Level 3) Working with the DOM
 #### Read
 
 - <http://www.w3schools.com/js/js_lib_jquery.asp>
-- <http://www.w3schools.com/jquery/jquery_callback.asp>
 
 #### Bonus
 
@@ -53,3 +52,4 @@ Codecademy - jQuery - Events
 ##### Read 
 - <http://www.impressivewebs.com/callback-functions-javascript/>
 - <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
+- <http://www.w3schools.com/jquery/jquery_callback.asp>
