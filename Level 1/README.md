@@ -32,7 +32,7 @@ Codecademy - Javascript - Getting Started with Programming
 Javascript quirk - unknown variable names create global variables
 <http://www.2ality.com/2013/04/quirk-automatic-globals.html>
 
-#### Bonus
+#### Bonus (optional)
 
 Codeschool - Javascript Roadtrip - Variable Valley
 <http://javascript-roadtrip.codeschool.com/levels/2>
@@ -42,7 +42,7 @@ Codeschool - Javascript Roadtrip - Variable Valley
 #### Read 
 - <http://www.w3schools.com/js/js_datatypes.asp>
 
-#### Bonus
+#### Bonus (optional)
 
 Codeschool - Javascript Roadtrip - The Cliffs of Value - Booleans the true path
 <http://javascript-roadtrip.codeschool.com/levels/1/challenges/1 >
@@ -72,7 +72,7 @@ Named vs Anonymous Functions
 Immediately Invoked Function Expressions
 <http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#iife>
 
-#### Bonus
+#### Bonus (optional)
 
 Codecademy - Javascript - Build "Rock, Paper, Scissors"
 <http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
@@ -95,7 +95,7 @@ Two Things About Conditionals in JavaScript
 Switch Case Considered Harmful
 <http://ericleads.com/2012/12/switch-case-considered-harmful/>
 
-#### Bonus
+#### Bonus (optional)
 
 Codecademy - Javascript - Choose Your Own Adventure 2!
 <http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1>
