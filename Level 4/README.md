@@ -13,28 +13,28 @@
 
 ## Regex
 
-#### Read
+##### Read
 
 - <http://www.w3schools.com/js/js_regexp.asp>
 - <http://www.w3schools.com/jsref/jsref_obj_regexp.asp>
 
-#### Extension
+##### Extension
 
 - Intermediate introduction to Regex
 <http://codular.com/regex>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 - Regex Interactive tutorial
 <http://regexone.com/>
 
 ## Algorithms
 
-#### Read
+##### Read
 
 - <http://www.thatjsdude.com/interview/js1.html>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 - Coderbyte Challenges (complete at least 5-10)
 <http://coderbyte.com/CodingArea/>
