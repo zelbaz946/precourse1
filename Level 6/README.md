@@ -36,7 +36,7 @@ Codecademy - Javascript - Getting Started with Programming
 - Understand JavaScript Closures With Ease
 <http://javascriptissexy.com/understand-javascript-closures-with-ease/>
 
-#### Bonus
+#### Bonus (optional)
 
 - Codeschool - Front-end foundations (Level 2) - The Box Model
 <http://campus.codeschool.com/courses/front-end-foundations/contents>
@@ -69,7 +69,7 @@ Codecademy - Javascript - Getting Started with Programming
 - JavaScript Scoping and Hoisting
 <http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html>
 
-##### Bonus
+##### Bonus (optional)
 
 - Codeschool - Javascript Roadtrip Part 3 - Hoisting - Analysis of Load Order and Build Planning
 <http://javascript-roadtrip-part3.codeschool.com/levels/3/challenges/1>
