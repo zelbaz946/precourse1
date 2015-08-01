@@ -27,7 +27,7 @@ We divided the precourse challenges into three different levels. Each level has 
 
 #### Skill Builder For Each Level:
 
-- Beginner Level: https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%201%20(Beginner)/README.md
+- Beginner Level: <https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%201%20(Beginner)/README.md>
 - Intermediate Level:
 - Advanced Level: 
 
