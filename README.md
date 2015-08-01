@@ -25,7 +25,7 @@ We divided the precourse challenges into three different levels. Each level has 
 
 **PLEASE READ** the instructions ("README.md") file before attempting any of the challenges. You will only modify the codes inside the "main.js" file located in the source ("src") folder; make sure to read any comments inside the "main.js" file. DO NOT CHANGE anything in any other files or folders. You may take a look at the test folder to inquire how we are testing the correctness of the challenges. After you are done with each challenge open the index file (index.html) on the browser (Chrome or Firefox) to display the test results. For incorrect result, a red "x mark" will display beside thine test that did not pass and for correct result, a green "check mark" will display bside the test that passed. We encourage you to look at the displayed error message; it will help you figure out what you might need to fix.
 
-#### Table of Contents For Each Level
+#### Instructions For Each Level Can Be Found Here:
 
 - Beginner Level:
 - Intermediate Level:
