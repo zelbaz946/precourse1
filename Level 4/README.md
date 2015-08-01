@@ -2,10 +2,14 @@
 
 ## Please Read Before Proceeding With The Challenges...
 
-Topics Covered
+#### Topics Covered
 
 - Regex
 - Algorithms
+
+#### Brush Up Your Skills (if needed)
+Codecademy - Javascript - Getting Started with Programming
+<http://www.codecademy.com/courses/getting-started-v2/2/2>
 
 ## Regex
 
