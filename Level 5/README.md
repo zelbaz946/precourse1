@@ -28,7 +28,7 @@
 
 ## Callbacks
 
-#### Callbacks are one of the more challenging concepts to understand in JavaScript. Take your time with these tutorials. You should expect to spend at least a couple of hours on each
+#### Callbacks are one of the more challenging concepts to understand in JavaScript. Take your time with these tutorials...
 
 ##### Read 
 - <http://www.impressivewebs.com/callback-functions-javascript/>
