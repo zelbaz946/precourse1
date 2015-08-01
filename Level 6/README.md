@@ -30,6 +30,7 @@ Codecademy - Javascript - Getting Started with Programming
 
 ##### Read
 - <http://www.w3schools.com/js/js_function_closures.asp>
+- <http://www.w3schools.com/js/js_scope.asp>
 
 ##### Extension
 
