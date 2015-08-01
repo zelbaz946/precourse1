@@ -6,6 +6,7 @@ Topics Covered
 
 - Functions
 - Basic data structures (arrays and objects)
+- Built In Functions
 - Iteration (for and while loops)
 
 ## Functions
