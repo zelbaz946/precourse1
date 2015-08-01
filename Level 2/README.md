@@ -76,7 +76,7 @@ Codeschool - Javascript Roadtrip Part 2 - Built-In's Bluff
 Paradigms of Iteration in JavaScript
 <http://www.newmediacampaigns.com/blog/paradigms-of-iteration-in-javascript>
 
-##### Bonus
+##### Bonus (optional)
 
 Codeschool - Javascript Roadtrip Part 2 - The Labyrinth of Loops
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
