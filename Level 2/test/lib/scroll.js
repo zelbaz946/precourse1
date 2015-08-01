@@ -1,3 +1,4 @@
+
 function setCookie(value){
     localStorage.setItem('page_scroll', value);
 }
