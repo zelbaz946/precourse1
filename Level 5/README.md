@@ -49,6 +49,22 @@ Codecademy - jQuery - Events
 
 ## Callbacks
 
+Callbacks are one of the more challenging concepts to understand in JavaScript. Take your time with these tutorials. You should expect to spend at least a couple of hours on each
+
+Understanding callback functions in Javascript
+<http://recurial.com/programming/understanding-callback-functions-in-javascript/>
+
+Eloquent Javacript - Functions
+<http://eloquentjavascript.net/1st_edition/chapter3.html>
+
+Eloquent Javacript - Functional Programming
+<http://eloquentjavascript.net/1st_edition/chapter6.html>
+
+#### Extension
+
+Secrets of the JavaScript Ninja - (Chapter 3) Functions are fundamental
+<http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf>
+
 ##### Read 
 - <http://www.impressivewebs.com/callback-functions-javascript/>
 - <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
