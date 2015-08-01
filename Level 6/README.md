@@ -20,7 +20,7 @@ Codecademy - Javascript - Getting Started with Programming
 - <http://www.w3schools.com/js/js_htmldom_methods.asp>
 - <http://www.w3schools.com/js/js_htmldom_elements.asp>
 
-##### Bonus
+##### Bonus (optional)
 - Codecademy - HTML & CSS - HTML Basics
 <http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1>
 - Codeschool - Front-end foundations - HTML links
@@ -28,7 +28,7 @@ Codecademy - Javascript - Getting Started with Programming
 
 ## CSS/HTML Layout
 
-#### Read
+##### Read
 - <http://www.w3schools.com/js/js_function_closures.asp>
 
 ##### Extension
@@ -36,7 +36,7 @@ Codecademy - Javascript - Getting Started with Programming
 - Understand JavaScript Closures With Ease
 <http://javascriptissexy.com/understand-javascript-closures-with-ease/>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 - Codeschool - Front-end foundations (Level 2) - The Box Model
 <http://campus.codeschool.com/courses/front-end-foundations/contents>
