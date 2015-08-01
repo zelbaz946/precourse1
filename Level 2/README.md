@@ -2,41 +2,41 @@
 
 ## Please Read Before Proceeding With The Challenges...
 
-#### Topics Covered
+##### Topics Covered
 
 - Functions (more)
 - Basic data structures (arrays and objects)
 - Built In Functions
 - Iteration (for and while loops)
 
-#### Brush Up Your Skills (if needed)
+##### Brush Up Your Skills (if needed)
 Codecademy - Javascript - Getting Started with Programming
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
 
 ## Functions (more)
 
-#### Read
+##### Read
 - <http://www.w3schools.com/js/js_function_definition.asp>
 - <http://www.w3schools.com/js/js_function_parameters.asp>
 - <http://www.w3schools.com/js/js_function_invocation.asp>
 
-#### Extension
+##### Extension
 
 Function Expressions vs Function Declarations
 <http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 Codeschool - Javascript road trip Part 2 - The Desert of Declarations
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
 
 ## Basic data structures - array and objects
 
-#### Read
+##### Read
 - <http://www.w3schools.com/js/js_objects.asp>
 - <http://www.w3schools.com/js/js_arrays.asp>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 Codeschool - Javascript Roadtrip Part 2 - The Array Archipelago
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
@@ -49,34 +49,34 @@ Codecademy - Javascript - Building a Cash Register
 
 ## Built in functions
 
-#### Read
+##### Read
 - <http://www.w3schools.com/js/js_scope.asp>
 - <http://www.w3schools.com/js/js_array_methods.asp>
 - <http://www.w3schools.com/js/js_number_methods.asp>
 - <http://www.w3schools.com/js/js_string_methods.asp>
 
-#### Extension
+##### Extension
 
 JavaScript Built-In Functions with Examples
 <http://www.programming-free.com/2012/07/javascript-built-in-functions-with.html>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 Codeschool - Javascript Roadtrip Part 2 - Built-In's Bluff
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
 
 ## Iteration (for and while loops)
 
-#### Read
+##### Read
 - <http://www.w3schools.com/js/js_loop_for.asp>
 - <http://www.w3schools.com/js/js_loop_while.asp>
 
-#### Extension
+##### Extension
 
 Paradigms of Iteration in JavaScript
 <http://www.newmediacampaigns.com/blog/paradigms-of-iteration-in-javascript>
 
-#### Bonus
+##### Bonus
 
 Codeschool - Javascript Roadtrip Part 2 - The Labyrinth of Loops
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
