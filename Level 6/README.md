@@ -48,3 +48,13 @@ Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Dangers at the mo
 
 Understand JavaScript Closures With Ease
 <http://javascriptissexy.com/understand-javascript-closures-with-ease/>
+
+## Hoisting
+
+Codeschool - Javascript Roadtrip Part 3 - Hoisting - Analysis of Load Order and Build Planning
+<http://javascript-roadtrip-part3.codeschool.com/levels/3/challenges/1>
+
+#### Bonus
+
+JavaScript Scoping and Hoisting
+<http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html>
