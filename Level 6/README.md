@@ -8,7 +8,7 @@
 - Closure
 - Hoisting
 - JSON
-- 
+
 #### Brush Up Your Skills (if needed)
 Codecademy - Javascript - Getting Started with Programming
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
