@@ -62,7 +62,6 @@
 ##### Read 
 - <http://www.impressivewebs.com/callback-functions-javascript/>
 - <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
-- <http://www.w3schools.com/jquery/jquery_callback.asp>
 
 ##### Extension
 
