@@ -59,6 +59,9 @@
 
 ##### Read 
 - <http://www.w3schools.com/js/js_functions.asp>
+- <http://www.w3schools.com/js/js_function_definition.asp>
+- <http://www.w3schools.com/js/js_function_parameters.asp>
+- <http://www.w3schools.com/js/js_function_invocation.asp>
 
 ##### Extension
 
