@@ -4,56 +4,69 @@
 
 ##### Topics Covered
 
-- Basic data structures (more about arrays and objects)
-- Prototypes and inheritance
-- Data structures
+- Algorithms
+- Callbacks
+- Closures
+- Hoisting
 
 ##### Brush Up Your Skills (if needed)
 - Codecademy - Javascript - Getting Started with Programming
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
 
-## Basic data structures (more about arrays and objects)
+## Algorithms
 
 ##### Read
-- <http://www.w3schools.com/js/js_object_definition.asp>
-- <http://www.w3schools.com/js/js_properties.asp>
-- <http://www.w3schools.com/js/js_object_methods.asp>
 
-##### Bonus (optional)
-- Codeschool - Javascript Roadtrip Part 3 - Object Creation and Manipulation
-<http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/1>
-- Codeschool - Javascript Roadtrip Part 3 - Functionality in objects
-<http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/10>
-- Codeschool - Javascript Roadtrip Part 3 - Using enumeration
-<http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/16>
-
-## Prototypes and inheritance
-
-##### Read
-- <http://www.w3schools.com/js/js_object_prototypes.asp>
-- <http://www.w3schools.com/js/js_lib_prototype.asp>
+- <http://www.thatjsdude.com/interview/js1.html>
 
 ##### Bonus (optional)
 
-- Codeschool - Javascript Roadtrip Part 3 - Prototypes and inheritance
-<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/1>
-- Codeschool - Javascript Roadtrip Part 3 - Inheritance and constructors
-<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/6>
-- Codeschool - Javascript Roadtrip Part 3 - Overriding prototypal methods
-<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/12>
+- Coderbyte Challenges (complete at least 5-10)
+<http://coderbyte.com/CodingArea/>
 
-## Data structures
+## Callbacks
 
-##### Read
+#### Callbacks are one of the more challenging concepts to understand in JavaScript. Take your time with these tutorials...
 
--Data Structures with JavaScript - Stack
-<http://www.codeproject.com/Articles/669131/Data-Structures-with-JavaScript>
--Data Structures with JavaScript - Queue
-<http://www.codeproject.com/Articles/669131/Data-Structures-with-JavaScript>
--Data Structures with JavaScript - Linked List
-<http://www.codeproject.com/Articles/669131/Data-Structures-with-JavaScript>
+##### Read 
+- <http://www.impressivewebs.com/callback-functions-javascript/>
+- <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
+- <http://www.w3schools.com/jquery/jquery_callback.asp>
 
 ##### Extension
 
--Computer science in JavaScript: Binary search
-<http://www.nczonline.net/blog/2009/09/01/computer-science-in-javascript-binary-search/>
+- Understanding callback functions in Javascript
+<http://recurial.com/programming/understanding-callback-functions-in-javascript/>
+- Secrets of the JavaScript Ninja - (Chapter 3) Functions are fundamental
+<http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf>
+
+## Closures
+
+##### Read
+- <http://www.w3schools.com/js/js_function_closures.asp>
+
+##### Extension
+- <http://www.sitepoint.com/javascript-closures-demystified/>
+
+##### Bonus (optional)
+- Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Tracing, building and using closures
+<http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/1>
+- Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Modifying bound values after closure
+<http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/9>
+- Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Dangers at the moment of closure
+<http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/13>
+
+## Hoisting
+
+##### Read
+- <http://www.w3schools.com/js/js_hoisting.asp>
+
+##### Extension
+
+- JavaScript Scoping and Hoisting
+<http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html>
+
+##### Bonus (optional)
+
+- Codeschool - Javascript Roadtrip Part 3 - Hoisting - Analysis of Load Order and Build Planning
+<http://javascript-roadtrip-part3.codeschool.com/levels/3/challenges/1>
