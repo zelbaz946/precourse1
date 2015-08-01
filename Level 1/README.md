@@ -2,7 +2,7 @@
 
 ## Please Read Before Proceeding With The Challenges...
 
-####Topics Covered
+##### Topics Covered
 
 - A review of pre-application basics
 - Variables and Data Types
@@ -10,38 +10,38 @@
 - Functions
 - Control flow (conditions - if/else)
 
-#### Brush Up Your Skills (if needed)
+##### Brush Up Your Skills (if needed)
 Codecademy - Javascript - Getting Started with Programming
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
 
 ## Basics
 
-#### Read 
+##### Read 
 - <http://www.w3schools.com/js/default.asp>
 - <http://www.w3schools.com/js/js_intro.asp>
 - <http://www.w3schools.com/js/js_syntax.asp>
 
 ## Variables
 
-#### Read 
+##### Read 
 - <http://www.w3schools.com/js/js_variables.asp>
 
-#### Extension
+##### Extension
 
 Javascript quirk - unknown variable names create global variables
 <http://www.2ality.com/2013/04/quirk-automatic-globals.html>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 Codeschool - Javascript Roadtrip - Variable Valley
 <http://javascript-roadtrip.codeschool.com/levels/2>
 
 ## Data Types
 
-#### Read 
+##### Read 
 - <http://www.w3schools.com/js/js_datatypes.asp>
 
-#### Bonus (optional)
+##### Bonus (optional)
 
 Codeschool - Javascript Roadtrip - The Cliffs of Value - Booleans the true path
 <http://javascript-roadtrip.codeschool.com/levels/1/challenges/1 >
@@ -50,37 +50,37 @@ Codeschool - Javascript Roadtrip - The Cliffs of Value - Strings on signs
 
 ## Operators
 
-#### Read 
+##### Read 
 - <http://www.w3schools.com/js/js_operators.asp>
 - <http://www.w3schools.com/js/js_arithmetic.asp>
 - <http://www.w3schools.com/js/js_assignment.asp>
 
 ## Functions
 
-#### Read 
+##### Read 
 - <http://www.w3schools.com/js/js_functions.asp>
 
-#### Extension
+##### Extension
 
 Function Expressions and Declarations
 <http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/>
 
-#### Bonus (optional)
-
-Codecademy - Javascript - Build "Rock, Paper, Scissors"
-<http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
+##### Bonus (optional)
 
 Codeschool - Javascript road trip Part 2 - The Desert of Declarations
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
 
+Codecademy - Javascript - Build "Rock, Paper, Scissors"
+<http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
+
 ## Conditionals (if/else)
 
-#### Read 
+##### Read 
 - <http://www.w3schools.com/js/js_comparisons.asp>
 - <http://www.w3schools.com/js/js_if_else.asp>
 - <http://www.w3schools.com/js/js_switch.asp>
 
-#### Extension
+##### Extension
 
 Two Things About Conditionals in JavaScript
 <http://rmurphey.com/blog/2012/12/10/js-conditionals/>
@@ -88,10 +88,10 @@ Two Things About Conditionals in JavaScript
 Switch Case Considered Harmful
 <http://ericleads.com/2012/12/switch-case-considered-harmful/>
 
-#### Bonus (optional)
-
-Codecademy - Javascript - Choose Your Own Adventure 2!
-<http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1>
+##### Bonus (optional)
 
 Codeschool - Javascript Roadtrip Part 2 - Conditional Canyon
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
+
+Codecademy - Javascript - Choose Your Own Adventure 2!
+<http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1>
