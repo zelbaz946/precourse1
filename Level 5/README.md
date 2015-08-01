@@ -2,7 +2,7 @@
 
 ## Please Read Before Proceeding With The Challenges...
 
-#### Topics Covered
+##### Topics Covered
 
 - jQuery
 - Callbacks
