@@ -47,22 +47,6 @@
 - Codeschool - Javascript Roadtrip Part 2 - Built-In's Bluff
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
 
-## Prototypes and inheritance
-
-##### Read
-- <http://www.w3schools.com/js/js_object_prototypes.asp>
-- <http://www.w3schools.com/js/js_object_methods.asp>
-- <http://www.w3schools.com/js/js_lib_prototype.asp>
-
-##### Bonus (optional)
-
-- Codeschool - Javascript Roadtrip Part 3 - Prototypes and inheritance
-<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/1>
-- Codeschool - Javascript Roadtrip Part 3 - Inheritance and constructors
-<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/6>
-- Codeschool - Javascript Roadtrip Part 3 - Overriding prototypal methods
-<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/12>
-
 ## Iteration (for and while loops)
 
 ##### Read
@@ -82,3 +66,19 @@
 <http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1>
 - Codecademy - Javascript - Dragon Slayer!
 <http://www.codecademy.com/courses/javascript-beginner-en-mrTNH-6VIZ9/0/1>
+
+## Prototypes and inheritance
+
+##### Read
+- <http://www.w3schools.com/js/js_object_prototypes.asp>
+- <http://www.w3schools.com/js/js_object_methods.asp>
+- <http://www.w3schools.com/js/js_lib_prototype.asp>
+
+##### Bonus (optional)
+
+- Codeschool - Javascript Roadtrip Part 3 - Prototypes and inheritance
+<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/1>
+- Codeschool - Javascript Roadtrip Part 3 - Inheritance and constructors
+<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/6>
+- Codeschool - Javascript Roadtrip Part 3 - Overriding prototypal methods
+<http://javascript-roadtrip-part3.codeschool.com/levels/5/challenges/12>
