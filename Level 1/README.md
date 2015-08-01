@@ -63,14 +63,8 @@ Codeschool - Javascript Roadtrip - The Cliffs of Value - Strings on signs
 
 #### Extension
 
-Function Expressions vs Function Declarations
-<http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#expdec>
-
-Named vs Anonymous Functions
-<http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#anon>
-
-Immediately Invoked Function Expressions
-<http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#iife>
+Function Expressions and Declarations
+<http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/>
 
 #### Bonus (optional)
 
