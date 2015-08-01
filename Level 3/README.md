@@ -6,6 +6,7 @@ Topics Covered
 
 - Basic data structures (more about arrays and objects)
 - Prototypes and inheritance
+- Data structures
 
 ## Basic data structures (more about arrays and objects)
 
@@ -41,3 +42,19 @@ Codeschool - Javascript Roadtrip Part 3 - Overriding prototypal methods
 ##### Read
 - <http://www.w3schools.com/js/js_object_prototypes.asp>
 - <http://www.w3schools.com/js/js_lib_prototype.asp>
+
+## Data structures
+
+Data Structures with JavaScript - Stack
+<http://www.codeproject.com/Articles/669131/Data-Structures-with-JavaScript>
+
+Data Structures with JavaScript - Queue
+<http://www.codeproject.com/Articles/669131/Data-Structures-with-JavaScript>
+
+Data Structures with JavaScript - Linked List
+<http://www.codeproject.com/Articles/669131/Data-Structures-with-JavaScript>
+
+#### Extension
+
+Computer science in JavaScript: Binary search
+<http://www.nczonline.net/blog/2009/09/01/computer-science-in-javascript-binary-search/>
