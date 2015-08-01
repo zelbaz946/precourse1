@@ -67,11 +67,10 @@ Function Expressions and Declarations
 
 ##### Bonus (optional)
 
-Codeschool - Javascript road trip Part 2 - The Desert of Declarations
-- <https://www.codeschool.com/courses/javascript-road-trip-part-2>
-
-Codecademy - Javascript - Build "Rock, Paper, Scissors"
-- <http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
+- Codeschool - Javascript road trip Part 2 - The Desert of Declarations
+<https://www.codeschool.com/courses/javascript-road-trip-part-2>
+- Codecademy - Javascript - Build "Rock, Paper, Scissors"
+<http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
 
 ## Conditionals (if/else)
 
