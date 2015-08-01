@@ -49,9 +49,6 @@ Codecademy - jQuery - Events
 <http://www.codecademy.com/courses/web-beginner-en-JwhI1/0/1>
 
 ## Callbacks
-Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
-<http://www.codecademy.com/courses/getting-started-v2/0/1>
-Tutorial homepage: <http://www.codecademy.com/en/tracks/javascript>
 
 ##### Read 
 - <http://www.impressivewebs.com/callback-functions-javascript/>
