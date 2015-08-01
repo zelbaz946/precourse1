@@ -5,9 +5,9 @@
 ##### Topics Covered
 
 - Algorithms
-- Callbacks
 - Closures
 - Hoisting
+- Callbacks
 
 ##### Brush Up Your Skills (if needed)
 - Codecademy - Javascript - Getting Started with Programming
@@ -23,22 +23,6 @@
 
 - Coderbyte Challenges (complete at least 5-10)
 <http://coderbyte.com/CodingArea/>
-
-## Callbacks
-
-#### Callbacks are one of the more challenging concepts to understand in JavaScript. Take your time with these tutorials...
-
-##### Read 
-- <http://www.impressivewebs.com/callback-functions-javascript/>
-- <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
-- <http://www.w3schools.com/jquery/jquery_callback.asp>
-
-##### Extension
-
-- Understanding callback functions in Javascript
-<http://recurial.com/programming/understanding-callback-functions-in-javascript/>
-- Secrets of the JavaScript Ninja - (Chapter 3) Functions are fundamental
-<http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf>
 
 ## Closures
 
@@ -70,3 +54,19 @@
 
 - Codeschool - Javascript Roadtrip Part 3 - Hoisting - Analysis of Load Order and Build Planning
 <http://javascript-roadtrip-part3.codeschool.com/levels/3/challenges/1>
+
+## Callbacks
+
+#### Callbacks are one of the more challenging concepts to understand in JavaScript. Take your time with these tutorials...
+
+##### Read 
+- <http://www.impressivewebs.com/callback-functions-javascript/>
+- <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
+- <http://www.w3schools.com/jquery/jquery_callback.asp>
+
+##### Extension
+
+- Understanding callback functions in Javascript
+<http://recurial.com/programming/understanding-callback-functions-in-javascript/>
+- Secrets of the JavaScript Ninja - (Chapter 3) Functions are fundamental
+<http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf>
