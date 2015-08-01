@@ -4,62 +4,9 @@
 
 Topics Covered
 
-- A review of pre-application basics
-- Variables and Data Types
-- Operators
 - Functions
-- Control flow (conditions - if/else)
-
-## Basics
-Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
-<http://www.codecademy.com/courses/getting-started-v2/0/1>
-Tutorial homepage: <http://www.codecademy.com/en/tracks/javascript>
-
-##### Read 
-- <http://www.w3schools.com/js/default.asp>
-- <http://www.w3schools.com/js/js_intro.asp>
-- <http://www.w3schools.com/js/js_syntax.asp>
-- <http://www.w3schools.com/js/js_comments.asp>
-
-## Variables
-Codecademy - Javascript - Getting Started with Programming (Parts 24-28)
-<http://www.codecademy.com/courses/getting-started-v2/4/1>
-
-##### Read 
-- <http://www.w3schools.com/js/js_variables.asp>
-
-##### Bonus
-
-Codeschool - Javascript Roadtrip - Variable Valley
-<http://javascript-roadtrip.codeschool.com/levels/2>
-
-##### Extension
-
-Javascript quirk - unknown variable names create global variables
-<http://www.2ality.com/2013/04/quirk-automatic-globals.html>
-
-## Data Types
-Codecademy - Javascript - Getting Started with Programming (Parts 18-23)
-<http://www.codecademy.com/courses/getting-started-v2/3/1>
-
-##### Read 
-- <http://www.w3schools.com/js/js_datatypes.asp>
-
-##### Bonus
-
-Codeschool - Javascript Roadtrip - The Cliffs of Value - Booleans the true path
-<http://javascript-roadtrip.codeschool.com/levels/1/challenges/1 >
-Codeschool - Javascript Roadtrip - The Cliffs of Value - Strings on signs
-<http://javascript-roadtrip.codeschool.com/levels/1/challenges/7 >
-
-## Operators
-Codecademy - Javascript - Getting Started with Programming (Parts 13-17)
-<http://www.codecademy.com/courses/getting-started-v2/2/2>
-
-##### Read 
-- <http://www.w3schools.com/js/js_operators.asp>
-- <http://www.w3schools.com/js/js_arithmetic.asp>
-- <http://www.w3schools.com/js/js_assignment.asp>
+- Basic data structures (arrays and objects)
+- Iteration (for and while loops)
 
 ## Functions
 Codecademy - Javascript - Introduction to Variables in JavaScript
@@ -68,8 +15,7 @@ Codecademy - Javascript - Introduction to Variables in JavaScript
 Codecademy - Javascript - Build "Rock, Paper, Scissors"
 <http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
 
-##### Read 
-- <http://www.w3schools.com/js/js_functions.asp>
+*Complete:*
 
 ##### Bonus
 
@@ -87,6 +33,72 @@ Named vs Anonymous Functions
 Immediately Invoked Function Expressions
 <http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/#iife>
 
+## Basic data structures - array and objects
+
+Codecademy - Javascript - Arrays and Objects
+<http://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1>
+
+Codecademy - Javascript - Contact List
+<http://www.codecademy.com/courses/javascript-beginner-en-3bmfN/0/1>
+
+*Complete:*
+
+##### Bonus
+
+Codeschool - Javascript Roadtrip Part 2 - The Array Archipelago
+<https://www.codeschool.com/courses/javascript-road-trip-part-2>
+
+##### Extension
+
+Codecademy - Javascript - Introduction to Objects i
+<http://www.codecademy.com/courses/spencer-sandbox/0/1>
+
+Codecademy - Javascript - Building an Address Book
+<http://www.codecademy.com/courses/building-an-address-book/0/1>
+
+Codecademy - Javascript - Introduction to Objects ii
+<http://www.codecademy.com/courses/objects-ii/0/1>
+
+Codecademy - Javascript - Building a Cash Register
+<http://www.codecademy.com/courses/close-the-super-makert/0/1>
+
+## Built in functions
+
+Codeschool - Javascript Roadtrip Part 2 - Built-In's Bluff
+<https://www.codeschool.com/courses/javascript-road-trip-part-2>
+
+*Complete:*
+
+##### Extension
+
+JavaScript Built-In Functions with Examples
+<http://www.programming-free.com/2012/07/javascript-built-in-functions-with.html>
+
+## Iteration (for and while loops)
+Codecademy - Javascript - Introduction to 'For' Loops in JS
+<http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1>
+
+Codecademy - Javascript - Search Text for Your Name
+<http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1>
+
+Codecademy - Javascript - Introduction to 'While' Loops
+<http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1>
+
+Codecademy - Javascript - Dragon Slayer!
+<http://www.codecademy.com/courses/javascript-beginner-en-mrTNH-6VIZ9/0/1>
+
+*Complete:*
+
+##### Bonus
+
+Codeschool - Javascript Roadtrip Part 2 - The Labyrinth of Loops
+<https://www.codeschool.com/courses/javascript-road-trip-part-2>
+
+##### Extension
+
+Paradigms of Iteration in JavaScript
+<http://www.newmediacampaigns.com/blog/paradigms-of-iteration-in-javascript>
+
 ## Conditionals (if/else)
 
 Codecademy - Javascript - More on Control Flow in JS
@@ -95,10 +107,7 @@ Codecademy - Javascript - More on Control Flow in JS
 Codecademy - Javascript - Choose Your Own Adventure 2!
 <http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1>
 
-##### Read 
-- <http://www.w3schools.com/js/js_comparisons.asp>
-- <http://www.w3schools.com/js/js_if_else.asp>
-- <http://www.w3schools.com/js/js_switch.asp>
+*Complete:*
 
 ##### Bonus
 
