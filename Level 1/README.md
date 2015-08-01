@@ -11,7 +11,7 @@
 - Control flow (conditions - if/else)
 
 ##### Brush Up Your Skills (if needed)
-Codecademy - Javascript - Getting Started with Programming
+- Codecademy - Javascript - Getting Started with Programming
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
 
 ## Basics
