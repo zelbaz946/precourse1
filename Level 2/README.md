@@ -48,7 +48,6 @@
 ## Built in functions
 
 ##### Read
-- <http://www.w3schools.com/js/js_scope.asp>
 - <http://www.w3schools.com/js/js_array_methods.asp>
 - <http://www.w3schools.com/js/js_number_methods.asp>
 - <http://www.w3schools.com/js/js_string_methods.asp>
