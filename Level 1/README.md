@@ -28,12 +28,12 @@ Codecademy - Javascript - Getting Started with Programming
 
 ##### Extension
 
-Javascript quirk - unknown variable names create global variables
+- Javascript quirk - unknown variable names create global variables
 <http://www.2ality.com/2013/04/quirk-automatic-globals.html>
 
 ##### Bonus (optional)
 
-Codeschool - Javascript Roadtrip - Variable Valley
+- Codeschool - Javascript Roadtrip - Variable Valley
 <http://javascript-roadtrip.codeschool.com/levels/2>
 
 ## Data Types
@@ -43,9 +43,9 @@ Codeschool - Javascript Roadtrip - Variable Valley
 
 ##### Bonus (optional)
 
-Codeschool - Javascript Roadtrip - The Cliffs of Value - Booleans the true path
+- Codeschool - Javascript Roadtrip - The Cliffs of Value - Booleans the true path
 <http://javascript-roadtrip.codeschool.com/levels/1/challenges/1 >
-Codeschool - Javascript Roadtrip - The Cliffs of Value - Strings on signs
+- Codeschool - Javascript Roadtrip - The Cliffs of Value - Strings on signs
 <http://javascript-roadtrip.codeschool.com/levels/1/challenges/7 >
 
 ## Operators
@@ -63,15 +63,15 @@ Codeschool - Javascript Roadtrip - The Cliffs of Value - Strings on signs
 ##### Extension
 
 Function Expressions and Declarations
-<http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/>
+- <http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/>
 
 ##### Bonus (optional)
 
 Codeschool - Javascript road trip Part 2 - The Desert of Declarations
-<https://www.codeschool.com/courses/javascript-road-trip-part-2>
+- <https://www.codeschool.com/courses/javascript-road-trip-part-2>
 
 Codecademy - Javascript - Build "Rock, Paper, Scissors"
-<http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
+- <http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1>
 
 ## Conditionals (if/else)
 
@@ -82,16 +82,14 @@ Codecademy - Javascript - Build "Rock, Paper, Scissors"
 
 ##### Extension
 
-Two Things About Conditionals in JavaScript
+- Two Things About Conditionals in JavaScript
 <http://rmurphey.com/blog/2012/12/10/js-conditionals/>
-
-Switch Case Considered Harmful
+- Switch Case Considered Harmful
 <http://ericleads.com/2012/12/switch-case-considered-harmful/>
 
 ##### Bonus (optional)
 
-Codeschool - Javascript Roadtrip Part 2 - Conditional Canyon
+- Codeschool - Javascript Roadtrip Part 2 - Conditional Canyon
 <https://www.codeschool.com/courses/javascript-road-trip-part-2>
-
-Codecademy - Javascript - Choose Your Own Adventure 2!
+- Codecademy - Javascript - Choose Your Own Adventure 2!
 <http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1>
