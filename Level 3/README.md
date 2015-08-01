@@ -4,11 +4,8 @@
 
 Topics Covered
 
-- A review of pre-application basics
-- Variables and Data Types
-- Operators
-- Functions
-- Control flow (conditions - if/else)
+- Arrays
+- Prototypes and inheritance
 
 ## Basics
 Codecademy - Javascript - Getting Started with Programming (Parts 1-12)
