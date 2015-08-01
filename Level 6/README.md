@@ -53,7 +53,7 @@ Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Dangers at the mo
 
 #### Read
 - <http://www.w3schools.com/js/js_function_closures.asp>
-- 
+
 #### Extension
 
 Understand JavaScript Closures With Ease
@@ -63,6 +63,9 @@ Understand JavaScript Closures With Ease
 
 Codeschool - Javascript Roadtrip Part 3 - Hoisting - Analysis of Load Order and Build Planning
 <http://javascript-roadtrip-part3.codeschool.com/levels/3/challenges/1>
+
+#### Read
+- <http://www.w3schools.com/js/js_hoisting.asp>
 
 #### Bonus
 
