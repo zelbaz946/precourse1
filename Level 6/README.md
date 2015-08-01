@@ -17,6 +17,12 @@ Codecademy - HTML & CSS - HTML Basics
 Codeschool - Front-end foundations - HTML links
 <http://campus.codeschool.com/courses/front-end-foundations/>
 
+#### Read
+- <http://www.w3schools.com/js/js_htmldom.asp>
+- <http://www.w3schools.com/js/js_htmldom_html.asp>
+- <http://www.w3schools.com/js/js_htmldom_methods.asp>
+- <http://www.w3schools.com/js/js_htmldom_document.asp>
+- <http://www.w3schools.com/js/js_htmldom_elements.asp>
 
 ## CSS Selectors
 
@@ -45,6 +51,9 @@ Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Modifying bound v
 Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Dangers at the moment of closure
 <http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/13>
 
+#### Read
+- <http://www.w3schools.com/js/js_function_closures.asp>
+- 
 #### Extension
 
 Understand JavaScript Closures With Ease
