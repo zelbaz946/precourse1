@@ -4,12 +4,12 @@
 
 Topics Covered
 
-- Functions (More)
+- Functions (more)
 - Basic data structures (arrays and objects)
 - Built In Functions
 - Iteration (for and while loops)
 
-## Functions
+## Functions (more)
 Codecademy - Javascript - Introduction to Variables in JavaScript
 <http://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1>
 
