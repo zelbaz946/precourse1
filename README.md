@@ -25,7 +25,7 @@ We divided the precourse challenges into three different levels. Each level has 
 
 **PLEASE READ THE SKILL BUILDER** ("README.md") file before attempting any of the challenges. You will only modify the codes inside the "main.js" file located in the source ("src") folder. **MAKE SURE TO READ ALL COMMENTS** inside the "main.js" file; these will be your instructions for solving each problem. DO NOT CHANGE anything in any other files or folders. You may take a look at the test folder to inquire how we are testing the correctness of the challenges. After you are done with each challenge open the index file (index.html) on the browser (Chrome or Firefox) to display the test results. For incorrect result, a red "x mark" will display beside thine test that did not pass and for correct result, a green "check mark" will display bside the test that passed. We encourage you to look at the displayed error message; it will help you figure out what you might need to fix.
 
-#### Checkout Skill Builders For Each Level:
+#### Checkout The Skill Builders For Each Level:
 
 - [Beginner Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%201%20(Beginner)/README.md)
 - [Intermediate Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%202%20(Intermediate)/README.md)
