@@ -17,6 +17,7 @@ Codecademy - HTML & CSS - HTML Basics
 Codeschool - Front-end foundations - HTML links
 <http://campus.codeschool.com/courses/front-end-foundations/>
 
+
 ## CSS Selectors
 
 Codeschool - Front-end foundations (Level 2) - CSS Selectors
@@ -58,3 +59,8 @@ Codeschool - Javascript Roadtrip Part 3 - Hoisting - Analysis of Load Order and 
 
 JavaScript Scoping and Hoisting
 <http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html>
+
+## JSON
+
+#### Read
+- <http://www.w3schools.com/js/js_json.asp>
