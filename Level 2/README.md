@@ -2,12 +2,16 @@
 
 ## Please Read Before Proceeding With The Challenges...
 
-Topics Covered
+#### Topics Covered
 
 - Functions (more)
 - Basic data structures (arrays and objects)
 - Built In Functions
 - Iteration (for and while loops)
+
+#### Brush Up Your Skills (if needed)
+Codecademy - Javascript - Getting Started with Programming
+<http://www.codecademy.com/courses/getting-started-v2/2/2>
 
 ## Functions (more)
 Codecademy - Javascript - Introduction to Variables in JavaScript
