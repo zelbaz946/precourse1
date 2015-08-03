@@ -2,7 +2,7 @@
 
 ## Read this file for guidance on these topics
 
-Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory.
+Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory in your browser.
 
 ##### Topics Covered
 
