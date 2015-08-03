@@ -13,8 +13,7 @@
   <script src="src/main.js"></script>
   <script src="test/test.js"></script>
   <script>
-    if (window.mochaPhantomJS) { mochaPhantomJS.run(); }
-    else { mocha.globals(); mocha.run(); }
+    mocha.globals(); mocha.run();
   </script>
 </body>
 </html>

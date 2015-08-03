@@ -23,6 +23,26 @@ describe('Intermediate Level Challenges...', function() {
     });
   });
 
+  describe('trim', function() {
+    it('should remove leading white spaces', function() {
+      expect(trim('hello')).to.eql('hello');
+      expect(trim(' hello')).to.eql('hello');
+      expect(trim('  hello')).to.eql('hello');
+      expect(trim('   hello')).to.eql('hello');
+    });
+
+    it('should remove trailing white spaces', function() {
+      expect(trim('hello')).to.eql('hello');
+      expect(trim('hello ')).to.eql('hello');
+      expect(trim('hello  ')).to.eql('hello');
+      expect(trim('hello    ')).to.eql('hello');
+    });
+
+    it('should remove both', function() {
+      expect(trim('  hello  ')).to.eql('hello');
+    });
+  });
+
   describe('createArray', function() {
     beforeEach(function() {
       array = new createArray();

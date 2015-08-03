@@ -1,8 +1,8 @@
 # Intermediate Level Skill Builder!
 
-Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory in your browser.
+## Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory in your browser.
 
-## Read this file for guidance on these topics
+### Read this file for guidance on these topics if needed
 
 ##### Topics Covered
 
@@ -18,7 +18,7 @@ Complete the challenges in ```src/main.js```. To check your answers, open the ``
 
 ##### Extension
 
-- [JavaScript Built-In Functions with Examples](http://www.programming-free.com/2012/07/javascript-built-in-functions-with.html) 
+- [JavaScript Built-In Functions with Examples](http://www.programming-free.com/2012/07/javascript-built-in-functions-with.html)
 
 ## Prototypes and inheritance
 

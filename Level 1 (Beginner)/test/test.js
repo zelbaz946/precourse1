@@ -113,4 +113,64 @@ describe('Level 1 Challenges...', function() {
     });
   });
 
+  describe('isNumber', function() {
+    it('should return true for numbers', function() {
+      expect(isNumber(0)).to.be(true);
+      expect(isNumber(-1)).to.be(true);
+      expect(isNumber(1)).to.be(true);
+    });
+
+    it('should return false for everything', function() {
+      expect(isNumber({})).to.be(false);
+      expect(isNumber([])).to.be(false);
+      expect(isNumber('a')).to.be(false);
+      expect(isNumber(true)).to.be(false);
+    });
+  });
+
+  describe('isArray', function() {
+    it('should return true for array', function() {
+      expect(isArray([])).to.be(true);
+      expect(isArray([1])).to.be(true);
+    });
+
+    it('should return false for everything', function() {
+      expect(isArray({})).to.be(false);
+      expect(isArray('a')).to.be(false);
+      expect(isArray(1)).to.be(false);
+      expect(isArray(true)).to.be(false);
+    });
+  });
+
+  describe('isObject', function() {
+    it('should return true for object', function() {
+      expect(isObject({})).to.be(true);
+      expect(isObject({a:1})).to.be(true);
+      expect(isObject([])).to.be(true);
+    });
+
+    it('should return false for everything', function() {
+      expect(isObject('a')).to.be(false);
+      expect(isObject(1)).to.be(false);
+      expect(isObject(true)).to.be(false);
+    });
+  });
+
+  describe('isNull', function() {
+    it('should return true for null', function() {
+      expect(isNull(null)).to.be(true);
+    });
+
+    it('should return false for everything', function() {
+      expect(isNull(5)).to.eql(false);
+      expect(isNull('string')).to.eql(false);
+      expect(isNull({})).to.eql(false);
+      expect(isNull([])).to.eql(false);
+      expect(isNull(undefined)).to.eql(false);
+      expect(isNull(true)).to.eql(false);
+      expect(isNull(false)).to.eql(false);
+    });
+
+  });
+
 });

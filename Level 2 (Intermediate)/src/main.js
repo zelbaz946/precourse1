@@ -23,6 +23,14 @@ function findMax(array) {
 
 }
 
+/**
+ * remove leading and trailing whitespace or specified characters from string
+ * trim(' hello '); -> 'hello'
+ */
+function trim(string) {
+
+}
+
 // returns an empty array object. this object should have the following methods:
 // push(val) adds val to the end of the array
 // pop() removes a value from the end and returns it

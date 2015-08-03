@@ -98,3 +98,35 @@ function positive(num) {
 
 }
 
+// Returns boolean of whether argument is classified as a Number object
+// isNumber(5); → true
+// isNumber('hi'); → false
+function isNumber(value) {
+	//CODE HERE
+
+}
+
+// Returns boolean of whether argument is classified as an Array object
+// isArray(5); → false
+// isArray([1,2,3]); → true
+function isArray(value) {
+	//CODE HERE
+
+}
+
+// Returns boolean of whether argument is classified as an Object
+// isObject(5); → false
+// isObject([1,2,3]); → true
+function isObject(value) {
+	//CODE HERE
+
+}
+
+// return boolean of whether argument is classified as null
+// isNull(null); -> true
+// isNull(5); -> false
+function isNull(value) {
+	//CODE HERE
+
+}
+
