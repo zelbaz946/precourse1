@@ -8,7 +8,6 @@ Complete the challenges in ```src/main.js```. To check your answers, open the ``
 
 - Algorithms
 - Closures
-- Hoisting
 - Callbacks
 
 ##### Brush Up Your Skills (if needed)
