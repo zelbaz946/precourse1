@@ -10,10 +10,6 @@
 - Functions
 - Control flow (conditions - if/else)
 
-##### Brush Up Your Skills (if needed)
-- Codecademy - Javascript - Getting Started with Programming
-<http://www.codecademy.com/courses/getting-started-v2/2/2>
-
 ## Variables
 
 ##### Read
@@ -27,29 +23,29 @@
 ## Data Types
 
 ##### Read
-- <http://www.w3schools.com/js/js_datatypes.asp>
-- <http://www.w3schools.com/js/js_arrays.asp>
-- <http://www.w3schools.com/js/js_objects.asp>
-- <http://www.w3schools.com/js/js_object_definition.asp>
+- [Datatypes](http://www.w3schools.com/js/js_datatypes.asp)
+- [Arrays](http://www.w3schools.com/js/js_arrays.asp)
+- [Objects](http://www.w3schools.com/js/js_objects.asp)
+- [Object Definitions](http://www.w3schools.com/js/js_object_definition.asp)
 
 ## Operators
 
 ##### Read
-- <http://www.w3schools.com/js/js_operators.asp>
-- <http://www.w3schools.com/js/js_arithmetic.asp>
-- <http://www.w3schools.com/js/js_assignment.asp>
+- [Operators](http://www.w3schools.com/js/js_operators.asp)
+- [Arithmetic](http://www.w3schools.com/js/js_arithmetic.asp)
+- [Assignment](http://www.w3schools.com/js/js_assignment.asp)
 
 ## Functions
 
 ##### Read
-- <http://www.w3schools.com/js/js_functions.asp>
-- <http://www.w3schools.com/js/js_function_definition.asp>
-- <http://www.w3schools.com/js/js_function_parameters.asp>
-- <http://www.w3schools.com/js/js_function_invocation.asp>
+- [Functions](http://www.w3schools.com/js/js_functions.asp)
+- [Function Defintion](http://www.w3schools.com/js/js_function_definition.asp)
+- [Parameters](http://www.w3schools.com/js/js_function_parameters.asp)
+- [Invocation](http://www.w3schools.com/js/js_function_invocation.asp)
 
 ## Conditionals (if/else)
 
 ##### Read
-- <http://www.w3schools.com/js/js_comparisons.asp>
-- <http://www.w3schools.com/js/js_if_else.asp>
+- [Comparisons](http://www.w3schools.com/js/js_comparisons.asp)
+- [If/Else](http://www.w3schools.com/js/js_if_else.asp)
 - <http://www.w3schools.com/js/js_switch.asp>
