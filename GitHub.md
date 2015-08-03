@@ -9,7 +9,7 @@ Github is the software engineer's hub - where you'll find code written by your f
 
 To view the Precourse instructions you can just navigate github - here's precourse unit 1 instructions <https://github.com/CodesmithLLC/precourse/blob/master/precourse-unit-1.md>
 
-To update us on your progress is a little more complicated - follow these instructions step by step. 
+To update us on your progress is a little more complicated - follow these instructions step by step.
 
 If you hit a block, consider the best search request to make on google and search for an answer (this is a core skill). If that does not work, send a message to hello@codesmith.io with the subject line: help (it must include 'help' in the subject!)
 
@@ -30,9 +30,7 @@ If you hit a block, consider the best search request to make on google and searc
   git clone *github url
   ````
 
-4. Open ```precourse-unit-1.md``` in a text editor (Sublime Text 2 is best - we'll use this later on - but a simple notepad can work)
-
-5. As you complete a section, put a check mark besides your completed section ![](https://www.dropbox.com/s/azmiejp57cca0z7/github-workflow-check-for-complete_shrink.png?dl=1)
+4. As you complete a section, put a check mark besides your completed section ![](https://www.dropbox.com/s/azmiejp57cca0z7/github-workflow-check-for-complete_shrink.png?dl=1)
 
 Bonus video on using Git and Github <https://www.youtube.com/watch?v=tRTckrrCME4>
 
@@ -41,7 +39,7 @@ Bonus video on using Git and Github <https://www.youtube.com/watch?v=tRTckrrCME4
 
 When completed - you're going to commit and push your changes to your github. What does this mean?
 
-Git is like Apple's time machine - it saves older versions of your work (even after you can no longer press undo) - but unlike Time machine that does this automatically, with Git, you have to tell it when you're ready to save a version for posterity - we use `git add` and `git commit` for this. 
+Git is like Apple's time machine - it saves older versions of your work (even after you can no longer press undo) - but unlike Time machine that does this automatically, with Git, you have to tell it when you're ready to save a version for posterity - we use `git add` and `git commit` for this.
 
 Github is a place online that you can 'push' up all your old versions so your friends and team mates (and the Codesmith team) can see them
 
