@@ -1,6 +1,6 @@
 # Intermediate Level Skill Builder!
 
-## Please Read Before Proceeding With The Challenges...
+## Read this file for guidance on these topics
 
 ##### Topics Covered
 

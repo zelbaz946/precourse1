@@ -1,6 +1,6 @@
 # Advanced Level Skill Builder!
 
-## Please Read Before Proceeding With The Challenges...
+## Read this file for guidance on these topics
 
 ##### Topics Covered
 
@@ -49,7 +49,7 @@
 
 #### Callbacks are one of the more challenging concepts to understand in JavaScript. Take your time with these tutorials...
 
-##### Read 
+##### Read
 - <http://www.impressivewebs.com/callback-functions-javascript/>
 - <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
 

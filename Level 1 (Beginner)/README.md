@@ -1,6 +1,6 @@
 # Beginner Level Skill Builder!
 
-## Please Read Before Proceeding With The Challenges...
+## Read this file for guidance on these topics
 
 ##### Topics Covered
 
@@ -16,7 +16,7 @@
 
 ## Variables
 
-##### Read 
+##### Read
 - <http://www.w3schools.com/js/js_variables.asp>
 
 ##### Extension
@@ -31,7 +31,7 @@
 
 ## Data Types
 
-##### Read 
+##### Read
 - <http://www.w3schools.com/js/js_datatypes.asp>
 
 ##### Bonus (optional)
@@ -43,14 +43,14 @@
 
 ## Operators
 
-##### Read 
+##### Read
 - <http://www.w3schools.com/js/js_operators.asp>
 - <http://www.w3schools.com/js/js_arithmetic.asp>
 - <http://www.w3schools.com/js/js_assignment.asp>
 
 ## Functions
 
-##### Read 
+##### Read
 - <http://www.w3schools.com/js/js_functions.asp>
 - <http://www.w3schools.com/js/js_function_definition.asp>
 - <http://www.w3schools.com/js/js_function_parameters.asp>
@@ -58,7 +58,7 @@
 
 ## Conditionals (if/else)
 
-##### Read 
+##### Read
 - <http://www.w3schools.com/js/js_comparisons.asp>
 - <http://www.w3schools.com/js/js_if_else.asp>
 - <http://www.w3schools.com/js/js_switch.asp>
