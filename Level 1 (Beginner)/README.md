@@ -1,5 +1,7 @@
 # Beginner Level Skill Builder!
 
+Complete the challenges in ```src/main.js```. To check your answers, open the ```index.html``` file in this directory.
+
 ## Read this file for guidance on these topics
 
 ##### Topics Covered
@@ -48,4 +50,4 @@
 ##### Read
 - [Comparisons](http://www.w3schools.com/js/js_comparisons.asp)
 - [If/Else](http://www.w3schools.com/js/js_if_else.asp)
-- <http://www.w3schools.com/js/js_switch.asp>
+- [Switch](http://www.w3schools.com/js/js_switch.asp)
