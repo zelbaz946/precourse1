@@ -21,7 +21,7 @@
 
 ##### Bonus (optional)
 
-- Coderbyte Challenges (complete at least 5-10)
+- Coderbyte Challenges (complete 1-20)
 <http://coderbyte.com/CodingArea/>
 
 ## Closures
@@ -31,19 +31,6 @@
 
 ##### Extension
 - <http://www.sitepoint.com/javascript-closures-demystified/>
-
-##### Bonus (optional)
-- Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Tracing, building and using closures
-<http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/1>
-- Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Modifying bound values after closure
-<http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/9>
-- Codeschool - Javascript Roadtrip Part 3 - Cold Closures Cove - Dangers at the moment of closure
-<http://javascript-roadtrip-part3.codeschool.com/levels/2/challenges/13>
-
-##### Bonus (optional)
-
-- Codeschool - Javascript Roadtrip Part 3 - Hoisting - Analysis of Load Order and Build Planning
-<http://javascript-roadtrip-part3.codeschool.com/levels/3/challenges/1>
 
 ## Callbacks
 
