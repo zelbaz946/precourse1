@@ -12,7 +12,7 @@ If this is challenging, don't be worrried! Getting used to the challenge will be
 
 ## You Need To Know How To Use GitHub!
 
-It is really important that you get familiar with github. We will provide you with all the challenges through github and you will be submitting your completed work to use through github. The way we use github is slightly different so make sure you read the ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. Also, github is very popular among well-known companies and knowing how to use it will undoubtedly be a great skill for you in the future.
+It is really important that you get familiar with github. We will provide you with all the challenges through github and you will be submitting your completed work to use through github. The way we use github is slightly different so make sure you read the ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. Also, github is very popular among well-known companies and knowing how to use it will undoubtedly be a great skill for you in the future. **YOU NEED TO FORK AND CLONE THIS REPO SO READ ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) CAREFULLY!**
 
 ## Instructions For The Precourse Challenges:
 
