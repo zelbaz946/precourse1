@@ -4,9 +4,7 @@
 
 ##### Topics Covered
 
-- Basic data structures (arrays and objects)
 - Built In Functions
-- Iteration (for and while loops)
 - Prototypes and inheritance
 
 ##### Brush Up Your Skills (if needed)
@@ -25,6 +23,8 @@
 - JavaScript Built-In Functions with Examples
 <http://www.programming-free.com/2012/07/javascript-built-in-functions-with.html>
 
+## Prototypes and inheritance
 
+- [Object creation](http://tylermcginnis.com/object-creation-in-javascript-functional-instantiation-vs-prototypal-instantiation-vs-pseudo-classical-instantiation/)
 
 
