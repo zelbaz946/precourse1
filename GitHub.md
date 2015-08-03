@@ -7,8 +7,6 @@ Github is the software engineer's hub - where you'll find code written by your f
 1. As a hub for our Precourse instructions (they're saved in text documents - that end in .md). Each unit has its own .md file
 2. As the place for you to save your progress to keep us updated
 
-To view the Precourse instructions you can just navigate github - here's precourse unit 1 instructions <https://github.com/CodesmithLLC/precourse/blob/master/precourse-unit-1.md>
-
 To update us on your progress is a little more complicated - follow these instructions step by step.
 
 If you hit a block, consider the best search request to make on google and search for an answer (this is a core skill). If that does not work, send a message to hello@codesmith.io with the subject line: help (it must include 'help' in the subject!)
