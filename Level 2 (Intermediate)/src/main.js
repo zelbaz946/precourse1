@@ -3,7 +3,15 @@
 // ex: returnOdds([1,2,3,4,5,6,7]); -> [1,3,5,7]
 function returnOdds(array) {
 	//CODE HERE
+	var newArr = []
+	array.forEach(function(x){
+		if(x%2===0){
 
+		}else{
+			newArr.push(x);
+		}
+	})
+	return newArr;
 }
 
 
@@ -12,6 +20,16 @@ function returnOdds(array) {
 // ex: returnEvent([1,2,3,4,5,6,7]); -> [2,4,6]
 function returnEvens(array) {
 	//CODE HERE
+	var newArr = []
+	array.forEach(function(x){
+		if(x%2===0){
+			newArr.push(x);
+
+		}else{
+			
+		}
+	})
+	return newArr;
 
 }
 
@@ -20,6 +38,7 @@ function returnEvens(array) {
 // ex: findMax([1,25,6,3]); -> 25
 function findMax(array) {
 	//CODE HERE
+	
 
 }
 
