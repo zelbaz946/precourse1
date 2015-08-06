@@ -33,6 +33,10 @@ The Skill Builder File provides resources to instuct you on these challenges if 
 - [Intermediate Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%202%20(Intermediate)/README.md)
 - [Advanced Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%203%20(Advanced)/README.md)
 
+## What do I do when I am done?
+
+Please read the portion labelled **"What do I do when I am done with a unit?"** in the following link: [pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md).
+
 ## Setting up Sublime Text (if you need to)
 
 Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, autocomplete of terms and automatic indentation of our code
