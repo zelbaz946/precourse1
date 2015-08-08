@@ -4,7 +4,7 @@
 
 Welcome To Codesmith Precourse.
 
-The precourse is designed to help you become experience in the fundamental javascript concepts. Much of the challenges may be familiar, especially in the first portion but please be patient since a big end project awaits where you will utilize all your javascript skills to create an "Instagram" clone and a JSON parser in part 2 of the precourse. We aspire you to be proficient in your javascript skills and become a better programmer through the process.
+The precourse is designed to help you become experienced in the fundamental javascript concepts. Much of the challenges may be familiar, especially in the first portion but please be patient since a big end project awaits where you will utilize all your javascript skills to build come interesting projects. Part 1 of the precourse is designed to solidify your basics in javascript. In part 2 of the precourse, you will be doing more javascript challenges while building an "Instagram" clone and a copy of the "Google" page. Part 3 of the precourse is equipped with a JSON parser and exposure to javascript frameworks. We aspire you to be proficient in your javascript skills and become a better programmer through the process.
 
 This precourse will truly help you understand the core material and get you ready for our fulltime program. Plus, it is a great opportunity for you to show us that you can handle our rigorous curriculum.
 
