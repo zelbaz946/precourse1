@@ -13,8 +13,8 @@ If this is challenging, don't be worrried! Getting used to the challenge will be
 ## You Need To Learn The Command Line
 
 Still using the Windows Explorer or Mac Finder? These tools have a graphical interface (pictures of folders and files). However, many of the tools you'll use as a developer lack a nice graphical user interface (GUI). In order to use them, you'll need to be familiar with the command line. This is a management interface using only text. Don't worry! Once you get used to it, you'll find it makes your life much easier. You can use any resources you like. We recommend reading these.
-[What is the command line?](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
-[Command line tutorial for beginners](http://cli.learncodethehardway.org/book/)
+- [What is the command line?](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
+- [Command line tutorial for beginners](http://cli.learncodethehardway.org/book/)
 
 ## You Need To Know How To Use GitHub!
 
