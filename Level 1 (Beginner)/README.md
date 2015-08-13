@@ -19,7 +19,7 @@
 
 ##### Extension
 
-- Javascript quirk - unknown variable names create global variables
+- JavaScript quirk - unknown variable names create global variables
 <http://www.2ality.com/2013/04/quirk-automatic-globals.html>
 
 ## Data Types

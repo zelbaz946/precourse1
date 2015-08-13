@@ -11,7 +11,7 @@
 - Callbacks
 
 ##### Brush Up Your Skills (if needed)
-- Codecademy - Javascript - Getting Started with Programming
+- Codeacademy - JavaScript - Getting Started with Programming
 <http://www.codecademy.com/courses/getting-started-v2/2/2>
 
 ## Algorithms
@@ -43,7 +43,7 @@
 
 ##### Extension
 
-- Understanding callback functions in Javascript
+- Understanding callback functions in JavaScript
 <http://recurial.com/programming/understanding-callback-functions-in-javascript/>
 - Secrets of the JavaScript Ninja - (Chapter 3) Functions are fundamental
 <http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf>
