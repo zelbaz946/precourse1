@@ -16,7 +16,15 @@ Still using the Windows Explorer or Mac Finder? These tools have a graphical int
 - [What is the command line?](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 - [Command line tutorial for beginners](http://cli.learncodethehardway.org/book/)
 
-## You Need To Know How To Use GitHub!
+##How do I get started
+- Fork and Clone this Repository (read [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
+- [Hi](#hi)
+- When the repository is on your computer, use your favorite text editor. We recommend sublime. Read [Setting up Sublime Text](#setting-up-sublime-text)
+
+## Hi
+
+
+## You Need To Know How To Use GitHub
 
 It is important that you get familiar with Github. We will provide you with all the challenges through Github and you will be submitting your completed work to use through Github. The way we use Github is slightly different so make sure you read the ["github.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. Some knowledge of the command line will be necessary. Also, Github is very popular among well-known companies and knowing how to use it will undoubtedly be a great skill for you in the future. **YOU NEED TO FORK AND CLONE THIS REPO SO READ ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) CAREFULLY TO LEARN HOW!**
 
@@ -43,7 +51,7 @@ The Skill Builder File provides resources to instruct you on these challenges if
 
 Please read the portion labeled **"What do I do when I am done with a unit?"** in the following link: [pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md).
 
-## Setting up Sublime Text (if you need to)
+## Setting up Sublime Text
 
 Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms and automatic indentation of our code
 
