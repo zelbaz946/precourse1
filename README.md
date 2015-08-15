@@ -10,19 +10,16 @@ This precourse will truly help you understand the core material and get you read
 
 If this is challenging, don't be worried! Getting used to the challenge will be a great asset to you in our program.
 
+##How do I get started
+- Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
+- Fork and Clone this Repository (review [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
+- When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). We recommend Sublime Text (read [Setting up Sublime Text](#setting-up-sublime-text) to install and learn how to use Sublime Text)
+
 ## You Need To Learn The Command Line
 
 Still using the Windows Explorer or Mac Finder? These tools have a graphical interface (pictures of folders and files). However, many of the tools you'll use as a developer lack a nice graphical user interface (GUI). In order to use them, you'll need to be familiar with the command line. This is a management interface using only text. Don't worry! Once you get used to it, you'll find it makes your life much easier. You can use any resources you like. We recommend reading these.
 - [What is the command line?](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 - [Command line tutorial for beginners](http://cli.learncodethehardway.org/book/)
-
-##How do I get started
-- Fork and Clone this Repository (read [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
-- [Hi](#hi)
-- When the repository is on your computer, use your favorite text editor. We recommend sublime. Read [Setting up Sublime Text](#setting-up-sublime-text)
-
-## Hi
-
 
 ## You Need To Know How To Use GitHub
 
