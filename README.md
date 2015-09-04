@@ -4,7 +4,7 @@
 
 Welcome To Codesmith Precourse.
 
-The precourse is designed to help you become experienced in the fundamental JavaScript concepts. Much of the challenges may be familiar, especially in the first portion but please be patient since a big end project awaits where you will utilize all your JavaScript skills to build come interesting projects. Part 1 of the precourse is designed to solidify your basics in JavaScript. 
+The precourse is designed to help you become experienced in the fundamental JavaScript concepts. Much of the challenges may be familiar, especially in the first portion but please be patient since a big end project awaits where you will utilize all your JavaScript skills to build some interesting projects. Part 1 of the precourse is designed to solidify your basics in JavaScript. 
 
 This precourse will truly help you understand the core material and get you ready for our full time program. Plus, it is a great opportunity for you to show us that you can handle our rigorous curriculum.
 
