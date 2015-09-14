@@ -36,6 +36,7 @@ function trim(string) {
 // pop() removes a value from the end and returns it
 // unshift(val) adds val to the beginning of the array
 // shift() removes a value from the beginning and returns it
+// the goal of this problem is to reverse engineer what array methods are actually doing and return an object that has those methods
 function createArray() {
 	//CODE HERE
 

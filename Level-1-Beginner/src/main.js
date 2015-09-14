@@ -79,8 +79,8 @@ function isOdd(num) {
 
 
 // determines if the number is negative
-// outputs true if the number is positive
-// outputs false if the number is zero or negative
+// outputs true if the number is negative
+// outputs false if the number is zero or positive
 // ex: isNegative(-1); -> true
 // ex: isNegative(1); -> false
 // ex: isNegative(0); -> false

@@ -14,6 +14,9 @@ If you hit a block, consider the best search request to make on google and searc
 ##How do I get started?
 
 1. Install git <http://git-scm.com/download/mac>
+    - windows users <https://git-scm.com/download/win>
+    - mac users set up and install `brew` <http://brew.sh/> **HINT** if you ever need to install anything on a mac, use homebrew
+    - then `brew update` and `brew install git`
 
 2. Fork this repo (this saves the instructions files to your own github profile)
 
@@ -47,7 +50,8 @@ That means you need to `git add` and `git commit` then `git push` your progress 
 
 2. Check the status of your work by typing ```git status``` in the command line (terminal). This will check whether you have made any changes. Here we've modified precourse-unit-1.md ![](https://www.dropbox.com/s/tbi6dusrafrmyjj/git-status.png?dl=1)
 
-3. Add your changes to 'prepare' them for saving a version using the command `git add` ![](https://www.dropbox.com/s/mzlexkf7npf78b3/git%20add.png?dl=1)
+3. Add your changes to 'prepare' them for saving a version using the command `git add`. `git add .` adds all changes in the current directory, **DO NOT DO THIS** explicitly add your files one by one, you can do this by passing more than one file or folder to the `git add` command `git add file1.js file2.js` ![](https://www.dropbox.com/s/mzlexkf7npf78b3/git%20add.png?dl=1)
+
 
 4. Now check the status - your file you've updated should have turned green! ![](https://www.dropbox.com/s/m2qx1y8wd98v15o/git%20status.png?dl=1)
 
@@ -56,3 +60,9 @@ That means you need to `git add` and `git commit` then `git push` your progress 
 6. Now we're going to 'push' your code up to your github.com profile so we (the Codesmith team) can see it ![](https://www.dropbox.com/s/xnh7p6elzrvy6m2/git%20push.png?dl=1)
 
 7. :dancers: Celebrate now that you have successfully worked through the git procedure :dancers:
+
+## Git tips!
+
+- remember, you can always see your log by typing `git log`
+- in these beginning stages always explicitly define what `remote` and what `branch` you are pushing to. When I `git push origin master` I am pushing to the `master` branch on the `origin` remote.
+- We can always see all our remotes and their urls by typing `git remote -v`
