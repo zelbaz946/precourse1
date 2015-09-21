@@ -41,6 +41,10 @@ describe('Intermediate Level Challenges...', function() {
     it('should remove both', function() {
       expect(trim('  hello  ')).to.eql('hello');
     });
+
+    it('should not remove space in the middle', function() {
+      expect(trim('keep the space in the middle  ')).to.eql('keep the space in the middle');
+    });
   });
 
   describe('createArray', function() {
