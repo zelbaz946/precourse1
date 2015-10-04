@@ -30,7 +30,7 @@ function filter(collection, callback) {
 
 }
 
-// Removes all elements from array that callback returns truthy for and returns an array of the removed elements.
+// Removes all elements from array that callback returns truthy for and returns an array of elements that did not pass the truthy test.
 // reject([1,2,3,4], function(element, index, collection) {
 //  return element % 2 === 0;
 // }); → [1,3]
