@@ -2,9 +2,9 @@
 
 ## Please Read Everything Before Proceeding...
 
-Welcome To Codesmith Precourse.
+Welcome to the Codesmith Precourse.
 
-The precourse is designed to help you become experienced in the fundamental JavaScript concepts. Much of the challenges may be familiar, especially in the first portion but please be patient since a big end project awaits where you will utilize all your JavaScript skills to build some interesting projects. Part 1 of the precourse is designed to solidify your basics in JavaScript. 
+This precourse is designed to help you become experienced in the fundamental JavaScript concepts. Much of the challenges may be familiar, especially in the first portion, but please be patient since a large final project awaits in which you will utilize all your JavaScript skills to build some interesting projects. Part 1 of the precourse is designed to solidify your basics in JavaScript. 
 
 This precourse will truly help you understand the core material and get you ready for our full time program. Plus, it is a great opportunity for you to show us that you can handle our rigorous curriculum.
 
@@ -34,7 +34,7 @@ We divided part 1 of the precourse challenges into three different levels. Each 
 - Test Folder ("test")
 - Index File ("index.html")
 
-You will only modify the codes inside the "main.js" file located in the source ("src") folder. **MAKE SURE TO READ ALL COMMENTS** inside the "main.js" file; these will be your instructions for solving each problem. DO NOT CHANGE anything in any other files or folders. You may take a look at the test folder to inquire how we are testing the correctness of the challenges. After you are done with each challenge open the index file (index.html) on the browser (Chrome or Firefox) to display the test results. For incorrect result, a red "x mark" will display beside the test that did not pass and for correct result, a green "check mark" will display beside the test that passed. We encourage you to look at the displayed error message; it will help you figure out what you might need to fix.
+You will only modify the codes inside the "main.js" file located in the source ("src") folder. **MAKE SURE TO READ ALL COMMENTS** inside the "main.js" file; these will be your instructions for solving each problem. DO NOT CHANGE anything in any other files or folders. You may take a look at the test folder to inquire how we are testing the correctness of the challenges. After you are done with each challenge open the index file (index.html) on the browser (Chrome or Firefox) to display the test results. For incorrect results, a red "x mark" will display beside the test that did not pass and for correct results, a green "check mark" will display beside the test that passed. We encourage you to look at the displayed error message; it will help you figure out what you might need to fix.
 
 The Skill Builder File provides resources to instruct you on these challenges if needed. **Read the README files if you get stuck.**
 
@@ -50,7 +50,7 @@ Please read the portion labeled **"What do I do when I am done with a unit?"** i
 
 ## Setting up Sublime Text
 
-Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms and automatic indentation of our code
+Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms and automatic indentation of our code.
 
 Download Sublime Text 2:
 <http://www.sublimetext.com/2>
@@ -65,18 +65,18 @@ width="240" height="180" border="10" /></a>
 
 ## Problem solving as a software engineer
 
-How to become a programmer, or the art of Googling well
+How to become a programmer, or the art of Googling well:
 <https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/>
 
-How to ask a good question on Stackoverflow
+How to ask a good question on Stackoverflow:
 <http://stackoverflow.com/help/how-to-ask>
 
-How to ask smart questions as a software engineer
+How to ask smart questions as a software engineer:
 <http://www.catb.org/~esr/faqs/smart-questions.html>
 
 ## Software engineer career
 
-Map of modern software engineering
+Map of modern software engineering:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zXqs6X0lzKI
 " target="_blank"><img src="http://img.youtube.com/vi/zXqs6X0lzKI/0.jpg"
