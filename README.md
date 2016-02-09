@@ -24,6 +24,7 @@ Still using the Windows Explorer or Mac Finder? These tools have a graphical int
 ## You Need To Know How To Use GitHub
 
 It is important that you get familiar with Github. We will provide you with all the challenges through Github and you will be submitting your completed work to use through Github. The way we use Github is slightly different so make sure you read the ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. Some knowledge of the command line will be necessary. Also, Github is very popular among well-known companies and knowing how to use it will undoubtedly be a great skill for you in the future. **YOU NEED TO FORK AND CLONE THIS REPO SO READ ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) CAREFULLY TO LEARN HOW!**
+In addition, here is a [video tutorial](https://youtu.be/Zd5GCIYeVd0).
 
 ## Instructions For The Precourse Challenges:
 
