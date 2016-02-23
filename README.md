@@ -51,7 +51,7 @@ Please read the portion labeled **"What do I do when I am done with a unit?"** i
 
 ## Setting up Sublime Text
 
-Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms and automatic indentation of our code.
+Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to use a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms and automatic indentation of our code.
 
 Download Sublime Text 2:
 <http://www.sublimetext.com/2>
