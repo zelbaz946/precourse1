@@ -4,16 +4,20 @@
 
 Welcome to the Codesmith Precourse.
 
-This precourse is designed to help you become experienced in the fundamental JavaScript concepts. Many of the challenges may be familiar, especially in the first portion, but please be patient since a large final project awaits in which you will utilize all your JavaScript skills to build some interesting projects. Part 1 of the precourse is designed to solidify your basics in JavaScript. 
+This precourse is designed to help you become experienced in the fundamental JavaScript concepts. Many of the challenges may be familiar, especially in the first portion, but please be patient since a large final project awaits in which you will utilize all your JavaScript skills. Part 1 of the precourse is designed to solidify your basics in JavaScript.
 
 This precourse will truly help you understand the core material and get you ready for our full time program. Plus, it is a great opportunity for you to show us that you can handle our rigorous curriculum.
 
-If this is challenging, don't be worried! Getting used to the challenge will be a great asset to you in our program.
+If this is challenging, don't be worried! Getting used to the challenge will be a great asset to you throughout the Codesmith program and your entire development career.
 
-##How do I get started
+## How do I get started
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
 - Fork and Clone this Repository (review [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
 - When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). We recommend Sublime Text (read [Setting up Sublime Text](#setting-up-sublime-text) to install and learn how to use Sublime Text)
+
+## Style guide
+
+One of the signs of a great software developer is the ability to write clean, readable, and maintainable code. This means code that is indented appropriately, uses whitespace when necessary to make lines more readable, and adheres to certain consistent stylistic approaches and industry standard best practices. For instance, using `const` instead of `var` when a variable isn't modified after its creation allows the JavaScript engine to gain some performance benefits when executing your code, and it lets other developers reading your code know instantly, without any extra cognitive burden, what your intentions are for a variable. Other examples are not modifying function parameters unexpectedly, or making sure to place spaces in between operators such as `+`, `-`, `=`, etc. Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/javascript), a comprehensive and opinionated styleguide for JavaScript. As you work the curriculum, try following the Airbnb styleguide as much as you can. The more you follow it, the more professional your code will look and the easier it will be to show off to potential hirers after Codesmith! You may also install a linting plugin such as [eslint](http://eslint.org/) or [jshint](http://jshint.com/) for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines.
 
 ## You Need To Learn The Command Line
 
@@ -23,7 +27,7 @@ Still using the Windows Explorer or Mac Finder? These tools have a graphical int
 
 ## You Need To Know How To Use GitHub
 
-It is important that you get familiar with Github. We will provide you with all the challenges through Github and you will be submitting your completed work to use through Github. The way we use Github is slightly different so make sure you read the ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. Some knowledge of the command line will be necessary. Also, Github is very popular among well-known companies and knowing how to use it will undoubtedly be a great skill for you in the future. **YOU NEED TO FORK AND CLONE THIS REPO SO READ ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) CAREFULLY TO LEARN HOW!**
+It is important that you get familiar with GitHub. We will provide you with all the challenges through GitHub and you will be submitting your completed work to use through GitHub. The way we use GitHub is slightly different so make sure you read the ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. Some knowledge of the command line will be necessary. Also, Github is very popular among well-known companies and knowing how to use it will undoubtedly be a great skill for you in the future. **YOU NEED TO FORK AND CLONE THIS REPO SO READ ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) CAREFULLY TO LEARN HOW!**
 In addition, here is a [video tutorial](https://youtu.be/Zd5GCIYeVd0).
 
 ## Instructions For The Precourse Challenges:
@@ -51,7 +55,7 @@ Please read the portion labeled **"What do I do when I am done with a unit?"** i
 
 ## Setting up Sublime Text
 
-Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to use a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms and automatic indentation of our code.
+Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to use a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms, automatic indentation of our code, and a rich plugin ecosystem that allows us to extend it's functionality in many ways.
 
 Download Sublime Text 2:
 <http://www.sublimetext.com/2>
