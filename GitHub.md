@@ -1,8 +1,8 @@
 Read everything here closely :eyes:
 
-Github is the software engineer's hub - where you'll find code written by your friends and team members and whole libraries like jQuery. What do we use Github for in our precourse?
+GitHub is the software engineer's hub - where you'll find code written by your friends and team members and whole libraries like jQuery. What do we use GitHub for in our precourse?
 
-## We're using Github for two purposes
+## We're using GitHub for two purposes
 
 1. As a hub for our Precourse instructions (they're saved in text documents - that end in .md). Each unit has its own .md file
 2. As the place for you to save your progress to keep us updated
@@ -11,7 +11,7 @@ To update us on your progress is a little more complicated - follow these instru
 
 If you hit a block, consider the best search request to make on google and search for an answer (this is a core skill). If that does not work, send a message to hello@codesmith.io with the subject line: help (it must include 'help' in the subject!)
 
-##How do I get started?
+## How do I get started?
 
 1. Install git <http://git-scm.com/download/mac>
     - windows users <https://git-scm.com/download/win>
@@ -33,7 +33,7 @@ If you hit a block, consider the best search request to make on google and searc
 
 4. As you complete a section, put a check mark besides your completed section ![](https://www.dropbox.com/s/azmiejp57cca0z7/github-workflow-check-for-complete_shrink.png?dl=1)
 
-Bonus video on using Git and Github <https://www.youtube.com/watch?v=tRTckrrCME4>
+Bonus video on using Git and GitHub <https://www.youtube.com/watch?v=tRTckrrCME4>
 
 
 ## What do I do when I am done with a unit?
@@ -42,7 +42,7 @@ When completed - you're going to commit and push your changes to your github. Wh
 
 Git is like Apple's time machine - it saves older versions of your work (even after you can no longer press undo) - but unlike Time machine that does this automatically, with Git, you have to tell it when you're ready to save a version for posterity - we use `git add` and `git commit` for this.
 
-Github is a place online that you can 'push' up all your old versions so your friends and team mates (and the Codesmith team) can see them
+GitHub is a place online that you can 'push' up all your old versions so your friends and team mates (and the Codesmith team) can see them
 
 That means you need to `git add` and `git commit` then `git push` your progress (whenever you feel you're proud of the number of sections you've checked off)
 
