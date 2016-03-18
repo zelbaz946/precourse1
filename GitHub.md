@@ -14,18 +14,19 @@ If you hit a block, consider the best search request to make on google and searc
 ## How do I get started?
 
 1. Install git <http://git-scm.com/download/mac>
-    - windows users <https://git-scm.com/download/win>
-    - mac users set up and install `brew` <http://brew.sh/> **HINT** if you ever need to install anything on a mac, use homebrew
+    - Windows users <https://git-scm.com/download/win>
+    - Mac users set up and install `brew` <http://brew.sh/> **HINT** if you ever need to install anything on a mac, use homebrew
     - then `brew update` and `brew install git`
+    - Debian-based Linux users `sudo apt-get install git`
 
 2. Fork this repo (this saves the instructions files to your own github profile)
 
-  - click on fork button on the top right of the page ![Alt text](https://www.dropbox.com/s/xo3c2miwdfch4fb/fork.png?dl=1)
+  - click on fork button on the top right of the page <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" width="300px">
   - click on your handle to fork to your own repo (that's the one with your name)
 
 3. Clone the repo (this pulls down the instructions files to your own computer so you can edit them - you're going to add check marks to each instruction you complete)
 
-  - copy and paste github url from the right side![Alt text](https://www.dropbox.com/s/8y4epgj3qvkhckt/clone.png?dl=1)
+  - copy and paste github url from the right side <br><img src="https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png" width="200px"></img>
   - type in the following line into your command line and insert your copies url as shown below:
   ````
   git clone *github url
