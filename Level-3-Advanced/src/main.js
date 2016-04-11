@@ -19,8 +19,7 @@ function map(array, callback) {
 
 }
 
-// Iterates over elements of collection, returning a collection of all elements callback returns truthy for.
-// The returned collection should be the same type that was passed in, either an Array or Object.
+// Iterates over elements of collection, returning an Array of all elements callback returns truthy for.
 // filter([1,2,3,4], function(element, index, collection) {
 //  return element % 2 === 0;
 // }); → [2,4]
