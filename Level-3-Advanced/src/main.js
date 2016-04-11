@@ -19,7 +19,8 @@ function map(array, callback) {
 
 }
 
-// Iterates over elements of collection, returning an array of all elements callback returns truthy for.
+// Iterates over elements of collection, returning a collection of all elements callback returns truthy for.
+// The returned collection should be the same type that was passed in, either an Array or Object.
 // filter([1,2,3,4], function(element, index, collection) {
 //  return element % 2 === 0;
 // }); → [2,4]
@@ -30,7 +31,8 @@ function filter(collection, callback) {
 
 }
 
-// Removes all elements from array that callback returns truthy for and returns an array of elements that did not pass the truthy test.
+// Removes all elements from array that callback returns truthy for and returning a collection of elements that did not pass the truthy test.
+// The returned collection should be the same type that was passed in, either an Array or Object.
 // reject([1,2,3,4], function(element, index, collection) {
 //  return element % 2 === 0;
 // }); → [1,3]
