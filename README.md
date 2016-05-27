@@ -10,7 +10,12 @@ This precourse will truly help you understand the core material and get you read
 
 If this is challenging, don't be worried! Getting used to the challenge will be a great asset to you throughout the Codesmith program and your entire development career.
 
-## How do I get started
+## What OS should I be using?
+- If you're using Mac OSX, you're going to be okay. We use macs here, too! 
+- Linux users, you have nothing to fear either.
+- If you're using Windows, we recommend installing Ubuntu and learning how to use linux and unix commands. Follow [this link](http://www.ubuntu.com/download/desktop). You don't have to pay for it! Follow the installation guide, Learn how to install software with your terminal, and you'll be on your way to linux mastery. 
+
+## How do I get started?
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
 - Fork and Clone this Repository (review [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
 - When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). We recommend Sublime Text (read [Setting up Sublime Text](#setting-up-sublime-text) to install and learn how to use Sublime Text)
