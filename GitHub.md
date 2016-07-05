@@ -60,7 +60,14 @@ That means you need to `git add` and `git commit` then `git push` your progress 
 
 6. Now we're going to 'push' your code up to your github.com profile so we (the Codesmith team) can see it ![](https://www.dropbox.com/s/xnh7p6elzrvy6m2/git%20push.png?dl=1)
 
-7. :dancers: Celebrate now that you have successfully worked through the git procedure :dancers:
+7. Last you'll create a pull request from your fork on GitHub to the branch with
+   your GitHub username on Codesmith's repo.
+   ![](https://www.dropbox.com/s/nc5fjycummdfyxn/pull-request-hack-hours.png?dl=1)
+
+   Here's a GIF:
+   ![](https://www.dropbox.com/s/1d69qmjthllyi7f/pr-and-merge2.gif?dl=1)
+
+8. :dancers: Celebrate now that you have successfully worked through the git procedure :dancers:
 
 ## Git tips!
 
