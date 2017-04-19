@@ -79,6 +79,14 @@ Managing extensions for VS Code (includes themes):
 Launching VS Code from a terminal:
 <https://code.visualstudio.com/docs/setup/mac>
 
+Setting up VS Code:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SYRwSyjD8oI
+" target="_blank"><img src="http://img.youtube.com/vi/SYRwSyjD8oI/0.jpg"
+width="240" height="180" border="10" /></a>
+
+<https://www.youtube.com/watch?v=SYRwSyjD8oI>
+
 # Setting up Atom (free)
 
 Downloading Atom:
@@ -88,6 +96,11 @@ Atome themes:
 <https://atom.io/themes>
 
 Video on setting up Atom:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=U5POoGSrtGg
+" target="_blank"><img src="http://img.youtube.com/vi/U5POoGSrtGg/0.jpg"
+width="240" height="180" border="10" /></a>
+
 <https://www.youtube.com/watch?v=U5POoGSrtGg>
 
 # Setting up Sublime Text (not free)
@@ -95,7 +108,7 @@ Video on setting up Atom:
 Download Sublime Text 2:
 <http://www.sublimetext.com/2>
 
-Sublime Text Introduction
+Setting up Sublime Text:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SVkR1ZkNusI
 " target="_blank"><img src="http://img.youtube.com/vi/SVkR1ZkNusI/0.jpg"
