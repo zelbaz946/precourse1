@@ -103,7 +103,7 @@ width="240" height="180" border="10" /></a>
 
 <https://www.youtube.com/watch?v=U5POoGSrtGg>
 
-# Setting up Sublime Text (not free)
+# Setting up Sublime Text ($70)
 
 Download Sublime Text 2:
 <http://www.sublimetext.com/2>
