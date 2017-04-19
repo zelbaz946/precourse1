@@ -92,7 +92,7 @@ width="240" height="180" border="10" /></a>
 Downloading Atom:
 <https://atom.io/>
 
-Atome themes:
+Atom themes:
 <https://atom.io/themes>
 
 Video on setting up Atom:
