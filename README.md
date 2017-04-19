@@ -58,9 +58,39 @@ The Skill Builder File provides resources to instruct you on these challenges if
 
 Please read the portion labeled **"What do I do when I am done with a unit?"** in the following link: [pushing to Github](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md).
 
-## Setting up Sublime Text
+## Setting up a Code Editor
 
-Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to use a more sophisticated text editor - we'll use Sublime Text 2 - it's become the standard in software engineering. It gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms, automatic indentation of our code, and a rich plugin ecosystem that allows us to extend it's functionality in many ways.
+Code is just text - instructions for the computer written in plain text. Therefore we could write it in a simple text editor - but most people choose to use a more sophisticated text editor - VS Code, Atom, or Sublime Text 2 - they've become the standard in software engineering. They gives us features like automatic highlighting of different JavaScript keywords, auto-complete of terms, automatic indentation of our code, and a rich plugin ecosystem that allows us to extend it's functionality in many ways. Explore to see which you prefer.
+
+# Setting up VS Code (free)
+
+Download VS Code:
+<https://code.visualstudio.com/>
+
+Git integration in VS Code:
+<https://code.visualstudio.com/docs/editor/versioncontrol>
+
+Integrated terminal in VS Code:
+<https://code.visualstudio.com/docs/editor/integrated-terminal>
+
+Managing extensions for VS Code (includes themes):
+<https://code.visualstudio.com/docs/editor/extension-gallery>
+
+Launching VS Code from a terminal:
+<https://code.visualstudio.com/docs/setup/mac>
+
+# Setting up Atom (free)
+
+Downloading Atom:
+<https://atom.io/>
+
+Atome themes:
+<https://atom.io/themes>
+
+Video on setting up Atom:
+<https://www.youtube.com/watch?v=U5POoGSrtGg>
+
+# Setting up Sublime Text (not free)
 
 Download Sublime Text 2:
 <http://www.sublimetext.com/2>
