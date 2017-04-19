@@ -83,7 +83,7 @@ Setting up VS Code:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SYRwSyjD8oI
 " target="_blank"><img src="http://img.youtube.com/vi/SYRwSyjD8oI/0.jpg"
-width="240" height="180" border="10" /></a>
+width="720" height="540" border="10" /></a>
 
 <https://www.youtube.com/watch?v=SYRwSyjD8oI>
 
@@ -99,7 +99,7 @@ Video on setting up Atom:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=U5POoGSrtGg
 " target="_blank"><img src="http://img.youtube.com/vi/U5POoGSrtGg/0.jpg"
-width="480" height="360" border="10" /></a>
+width="240" height="180" border="10" /></a>
 
 <https://www.youtube.com/watch?v=U5POoGSrtGg>
 
