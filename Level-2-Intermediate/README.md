@@ -22,6 +22,6 @@
 
 ## Prototypes and inheritance
 
-- [Object creation](http://tylermcginnis.com/object-creation-in-javascript-functional-instantiation-vs-prototypal-instantiation-vs-pseudo-classical-instantiation/)
+- [Object creation](https://tylermcginnis.com/object-creation-in-javascript-functional-instantiation-vs-prototypal-instantiation-vs-pseudo-e9287b6bbb32/)
 
 
