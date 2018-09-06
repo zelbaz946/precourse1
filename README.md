@@ -50,9 +50,9 @@ The Skill Builder File provides resources to instruct you on these challenges if
 
 #### Checkout The Skill Builders For Each Level:
 
-- [Beginner Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%201%20(Beginner)/README.md)
-- [Intermediate Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%202%20(Intermediate)/README.md)
-- [Advanced Level](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/Level%203%20(Advanced)/README.md)
+- [Beginner Level](https://github.com/CodesmithLLC/precourse-part-1/blob/master/Level-1-Beginner/README.md)
+- [Intermediate Level](https://github.com/CodesmithLLC/precourse-part-1/blob/master/Level-2-Intermediate/README.md)
+- [Advanced Level](https://github.com/CodesmithLLC/precourse-part-1/blob/master/Level-3-Advanced/README.md)
 
 ## What do I do when I am done?
 
