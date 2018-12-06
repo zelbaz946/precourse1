@@ -18,7 +18,7 @@ If this is challenging, don't be worried! Getting used to the challenge will be 
 ## How do I get started?
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
 - Fork and Clone this Repository (review [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
-- When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). We recommend Sublime Text (read [Setting up Sublime Text](#setting-up-sublime-text) to install and learn how to use Sublime Text), [Atom](https://atom.io/), or [VSCode](https://code.visualstudio.com/).
+- When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). For editors, we recommend [VSCode](https://code.visualstudio.com/) or [Atom](https://atom.io/).
 
 ## Style guide
 
@@ -102,19 +102,6 @@ Video on setting up Atom:
 width="240" height="180" border="10" /></a>
 
 <https://www.youtube.com/watch?v=U5POoGSrtGg>
-
-# Setting up Sublime Text ($70)
-
-Download Sublime Text 2:
-<http://www.sublimetext.com/2>
-
-Setting up Sublime Text:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SVkR1ZkNusI
-" target="_blank"><img src="http://img.youtube.com/vi/SVkR1ZkNusI/0.jpg"
-width="240" height="180" border="10" /></a>
-
-<https://www.youtube.com/watch?v=SVkR1ZkNusI>
 
 ## Problem solving as a software engineer
 
