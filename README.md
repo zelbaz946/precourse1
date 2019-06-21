@@ -11,9 +11,9 @@ This precourse will truly help you understand the core material and get you read
 If this is challenging, don't be worried! Getting used to the challenge will be a great asset to you throughout the Codesmith program and your entire development career.
 
 ## What OS should I be using?
-- If you're using Mac OSX, you're going to be okay. We use macs here, too! 
+- If you're using Mac OSX, you're going to be okay. We use macs here, too!
 - Linux users, you have nothing to fear either.
-- If you're using Windows, we recommend installing Ubuntu and learning how to use linux and unix commands. Follow [this link](http://www.ubuntu.com/download/desktop). You don't have to pay for it! Follow the installation guide, Learn how to install software with your terminal, and you'll be on your way to linux mastery. 
+- If you're using Windows, we recommend installing Ubuntu and learning how to use linux and unix commands. Follow [this link](http://www.ubuntu.com/download/desktop). You don't have to pay for it! Follow the installation guide, Learn how to install software with your terminal, and you'll be on your way to linux mastery.
 
 ## How do I get started?
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
@@ -22,7 +22,7 @@ If this is challenging, don't be worried! Getting used to the challenge will be 
 
 ## Style guide
 
-One of the signs of a great software developer is the ability to write clean, readable, and maintainable code. This means code that is indented appropriately, uses whitespace when necessary to make lines more readable, and adheres to certain consistent stylistic approaches and industry standard best practices. For instance, using `const` instead of `var` when a variable isn't modified after its creation allows the JavaScript engine to gain some performance benefits when executing your code, and it lets other developers reading your code know instantly, without any extra cognitive burden, what your intentions are for a variable. Other examples are not modifying function parameters unexpectedly, or making sure to place spaces in between operators such as `+`, `-`, `=`, etc. 
+One of the signs of a great software developer is the ability to write clean, readable, and maintainable code. This means code that is indented appropriately, uses whitespace when necessary to make lines more readable, and adheres to certain consistent stylistic approaches and industry standard best practices. For instance, using `const` instead of `var` when a variable isn't modified after its creation allows the JavaScript engine to gain some performance benefits when executing your code, and it lets other developers reading your code know instantly, without any extra cognitive burden, what your intentions are for a variable. Other examples are not modifying function parameters unexpectedly, or making sure to place spaces in between operators such as `+`, `-`, `=`, etc.
 
 Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/javascript), a comprehensive and opinionated styleguide for JavaScript. Follow the Airbnb styleguide and your code will look more profesional and it will be easier to show off in job interviews after Codesmith! You should install a linting plugin such as [eslint](http://eslint.org/) or [jshint](http://jshint.com/) for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines. For example: here is [linter-eslint](https://atom.io/packages/linter-eslint) for Atom.
 
@@ -30,7 +30,8 @@ Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/ja
 
 Still using the Windows Explorer or Mac Finder? These tools have a graphical interface (pictures of folders and files). However, many of the tools you'll use as a developer lack a nice graphical user interface (GUI). In order to use them, you'll need to be familiar with the command line. This is a management interface using only text. Don't worry! Once you get used to it, you'll find it makes your life much easier. You can use any resources you like. We recommend reading these.
 - [What is the command line?](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
-- [Command line tutorial for beginners](http://cli.learncodethehardway.org/book/)
+- [Command line cheat sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+- [Intro to Command Line](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 
 ## You Need To Know How To Use GitHub
 
