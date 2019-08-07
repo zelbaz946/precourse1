@@ -65,7 +65,7 @@ That means you need to `git add` and `git commit` then `git push` your progress 
    ![](https://www.dropbox.com/s/nc5fjycummdfyxn/pull-request-hack-hours.png?dl=1)
 
    Here's a GIF:
-   ![](https://www.dropbox.com/s/1d69qmjthllyi7f/pr-and-merge2.gif?dl=1)
+   ![](https://www.dropbox.com/s/1d69qmjthllyi7f/pr-and-merge2.gif)
 
 8. :dancers: Celebrate now that you have successfully worked through the git procedure :dancers:
 
