@@ -39,11 +39,14 @@
 
 ##### Read
 - <http://www.impressivewebs.com/callback-functions-javascript/>
-- <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
+
+- <https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad>
 
 ##### Extension
 
 - Understanding callback functions in JavaScript
-<http://recurial.com/programming/understanding-callback-functions-in-javascript/>
+
+<https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/>
+
 - Secrets of the JavaScript Ninja - (Chapter 3) Functions are fundamental
-<http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf>
+<https://the-eye.eu/public/Books/IT%20Various/secrets_of_the_javascript_ninja.pdf>
