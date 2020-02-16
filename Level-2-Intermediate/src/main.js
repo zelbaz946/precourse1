@@ -31,7 +31,7 @@ function trim(string) {
 
 }
 
-// returns an empty array object. this object should have the following methods:
+// returns an empty object that has methods which all it to have functionality that is found in arrays. this object should have the following methods:
 // push(val) adds val to the end of the array
 // pop() removes a value from the end and returns it
 // unshift(val) adds val to the beginning of the array
