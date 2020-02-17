@@ -18,13 +18,13 @@ If this is challenging, don't be worried! Getting used to the challenge will be 
 ## How do I get started?
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
 - Fork and Clone this Repository (review [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
-- When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). For editors, we recommend [VSCode](https://code.visualstudio.com/) or [Atom](https://atom.io/).
+- When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). For editors, we recommend [VSCode](https://code.visualstudio.com/).
 
 ## Style guide
 
 One of the signs of a great software developer is the ability to write clean, readable, and maintainable code. This means code that is indented appropriately, uses whitespace when necessary to make lines more readable, and adheres to certain consistent stylistic approaches and industry standard best practices. For instance, using `const` instead of `var` when a variable isn't modified after its creation allows the JavaScript engine to gain some performance benefits when executing your code, and it lets other developers reading your code know instantly, without any extra cognitive burden, what your intentions are for a variable. Other examples are not modifying function parameters unexpectedly, or making sure to place spaces in between operators such as `+`, `-`, `=`, etc.
 
-Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/javascript), a comprehensive and opinionated styleguide for JavaScript. Follow the Airbnb styleguide and your code will look more profesional and it will be easier to show off in job interviews after Codesmith! You should install a linting plugin such as [eslint](http://eslint.org/) or [jshint](http://jshint.com/) for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines. For example: here is [linter-eslint](https://atom.io/packages/linter-eslint) for Atom.
+Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/javascript), a comprehensive and opinionated styleguide for JavaScript. Follow the Airbnb styleguide and your code will look more profesional and it will be easier to show off in job interviews after Codesmith! You should install a linting plugin such as [eslint](http://eslint.org/) or [jshint](http://jshint.com/) for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines. For example: here is [eslint](https://https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint.io/packages/linter-eslint) for for VS Code.
 
 ## You Need To Learn The Command Line
 
@@ -36,7 +36,7 @@ Still using the Windows Explorer or Mac Finder? These tools have a graphical int
 ## You Need To Know How To Use GitHub
 
 It is important that you get familiar with GitHub. We will provide you with all the challenges through GitHub and you will be submitting your completed work to use through GitHub. The way we use GitHub is slightly different so make sure you read the ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) file to get yourself familiar with the processes. Some knowledge of the command line will be necessary. Also, Github is very popular among well-known companies and knowing how to use it will undoubtedly be a great skill for you in the future. **YOU NEED TO FORK AND CLONE THIS REPO SO READ ["GitHub.md"](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md) CAREFULLY TO LEARN HOW!**
-In addition, here is a [video tutorial](https://youtu.be/Zd5GCIYeVd0).
+In addition, here is a [video tutorial](https://youtu.be/SWYqp7iY_Tc).
 
 ## Instructions For The Precourse Challenges:
 
@@ -90,21 +90,6 @@ width="720" height="540" border="10" /></a>
 
 <https://www.youtube.com/watch?v=SYRwSyjD8oI>
 
-# Setting up Atom (free)
-
-Downloading Atom:
-<https://atom.io/>
-
-Atom themes:
-<https://atom.io/themes>
-
-Video on setting up Atom:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=U5POoGSrtGg
-" target="_blank"><img src="http://img.youtube.com/vi/U5POoGSrtGg/0.jpg"
-width="240" height="180" border="10" /></a>
-
-<https://www.youtube.com/watch?v=U5POoGSrtGg>
 
 ## Problem solving as a software engineer
 
