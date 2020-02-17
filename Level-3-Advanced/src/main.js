@@ -1,5 +1,5 @@
 // Iterates over elements of an array invoking callback for each element. The callback should be passed the element, the current index, and the entire array.
-// var callback = function(element, index, array) {
+// const callback = function(element, index, array) {
 //  console.log(element +"," +index +"," +array);
 // }
 // forEach(['a','b','c'], callback); → prints a,0,['a','b','c'] b,1,['a','b','c'] c,2,['a','b','c']
