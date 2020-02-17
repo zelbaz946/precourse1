@@ -12,7 +12,7 @@
 
 ##### Brush Up Your Skills (if needed)
 - Codeacademy - JavaScript - Getting Started with Programming
-<http://www.codecademy.com/courses/getting-started-v2/2/2>
+<https://www.codecademy.com/learn/introduction-to-javascript>
 
 ## Algorithms
 
@@ -22,8 +22,8 @@
 
 ##### Bonus (optional)
 
-- Coderbyte Challenges (complete 1-20)
-<http://coderbyte.com/CodingArea/>
+- Edabit Challenges (complete 1-20 for JavaScript on Easy setting)
+<https://edabit.com/challenges/>
 
 ## Closures
 
@@ -47,6 +47,3 @@
 - Understanding callback functions in JavaScript
 
 <https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/>
-
-- Secrets of the JavaScript Ninja - (Chapter 3) Functions are fundamental
-<https://the-eye.eu/public/Books/IT%20Various/secrets_of_the_javascript_ninja.pdf>
