@@ -100,7 +100,7 @@ How to ask a good question on Stackoverflow:
 <http://stackoverflow.com/help/how-to-ask>
 
 How to ask smart questions as a software engineer:
-<http://www.catb.org/~esr/faqs/smart-questions.html>
+<https://www.propublica.org/nerds/how-to-ask-programming-questions>
 
 ## Software engineer career
 
