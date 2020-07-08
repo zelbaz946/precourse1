@@ -21,18 +21,16 @@ If you hit a block, consider the best search request to make on google and searc
 
 2. Fork this repo (this saves the instructions files to your own github profile)
 
-  - click on fork button on the top right of the page <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" width="300px">
+  - click on fork button on the top right of the page <br><img src="./docs/assets/images/fork-highlight.jpeg" width="300px" />
   - click on your handle to fork to your own repo (that's the one with your name)
 
 3. Clone the repo (this pulls down the instructions files to your own computer so you can edit them - you're going to add check marks to each instruction you complete)
 
-  - copy and paste github url from the right side <br><img src="https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png" width="200px"></img>
+  - copy and paste github url from the right side <br><img src="./docs/assets/images/copy-url.jpeg" width="300px" />
   - type in the following line into your command line and insert your copies url as shown below:
-  ````
-  git clone *github url
-  ````
-
-4. As you complete a section, put a check mark besides your completed section ![](https://www.dropbox.com/s/azmiejp57cca0z7/github-workflow-check-for-complete_shrink.png?dl=1)
+  ```
+  git clone THE_URL_YOU_COPIED
+  ```
 
 Bonus video on using Git and GitHub <https://www.youtube.com/watch?v=tRTckrrCME4>
 
@@ -47,25 +45,26 @@ GitHub is a place online that you can 'push' up all your old versions so your fr
 
 That means you need to `git add` and `git commit` then `git push` your progress (whenever you feel you're proud of the number of sections you've checked off)
 
-1. Navigate to where you downloaded ('cloned') the precourse instructions ![](https://www.dropbox.com/s/kpzj15bfo4ygy1f/file-location.png?dl=1)
+1. Navigate to where you downloaded ('cloned') the precourse instructions ![](./docs/assets/images/file-location.png)
 
-2. Check the status of your work by typing ```git status``` in the command line (terminal). This will check whether you have made any changes. Here we've modified precourse-unit-1.md ![](https://www.dropbox.com/s/tbi6dusrafrmyjj/git-status.png?dl=1)
+2. Check the status of your work by typing ```git status``` in the command line (terminal). This will check whether you have made any changes. Here we've modified precourse-unit-1.md ![](./docs/assets/images/git-status.png)
 
-3. Add your changes to 'prepare' them for saving a version using the command `git add`. `git add .` adds all changes in the current directory, **DO NOT DO THIS** explicitly add your files one by one, you can do this by passing more than one file or folder to the `git add` command `git add file1.js file2.js` ![](https://www.dropbox.com/s/mzlexkf7npf78b3/git%20add.png?dl=1)
+3. Add your changes to 'prepare' them for saving a version using the command `git add`. Explicitly add your files one by one, you can do this by passing more than one file or folder to the `git add` command `git add file1.js file2.js` ![](./docs/assets/images/git-add.png)
+> The command `git add .` adds all changes in the current directory, and while it might seem helpful, it can easily cause major headaches for you. In other words: **DO NOT DO THIS**
 
 
-4. Now check the status - your file you've updated should have turned green! ![](https://www.dropbox.com/s/m2qx1y8wd98v15o/git%20status.png?dl=1)
+4. Now check the status - your file you've updated should have turned green! ![](./docs/assets/images/git-status-after.png)
 
-5. Now we have to add a message using `git commit -m "[YOUR MESSAGE]" - your message should say how far you've got ![](https://www.dropbox.com/s/shbxydbc86916bb/git%20commit.png?dl=1)
+5. Now we have to add a message using `git commit -m "[YOUR MESSAGE]" - your message should say how far you've got ![](./docs/assets/images/git-commit.png)
 
-6. Now we're going to 'push' your code up to your github.com profile so we (the Codesmith team) can see it ![](https://www.dropbox.com/s/xnh7p6elzrvy6m2/git%20push.png?dl=1)
+6. Now we're going to 'push' your code up to your github.com profile so we (the Codesmith team) can see it ![](./docs/assets/images/git-push.png)
 
 7. Last you'll create a pull request from your fork on GitHub to the branch with
    your GitHub username on Codesmith's repo.
-   ![](https://www.dropbox.com/s/nc5fjycummdfyxn/pull-request-hack-hours.png?dl=1)
+   ![](./docs/assets/images/pull-request-hack-hours.png)
 
    Here's a GIF:
-   ![](https://www.dropbox.com/s/1d69qmjthllyi7f/pr-and-merge2.gif)
+   ![](./docs/assets/images/pr-and-merge.gif)
 
 8. :dancers: Celebrate now that you have successfully worked through the git procedure :dancers:
 
