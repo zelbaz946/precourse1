@@ -85,8 +85,7 @@ Launching VS Code from a terminal:
 Setting up VS Code:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SYRwSyjD8oI
-" target="_blank"><img src="http://img.youtube.com/vi/SYRwSyjD8oI/0.jpg"
-width="720" height="540" border="10" /></a>
+" target="_blank"><img src="./docs/assets/images/vscode-video-thumb.png"/></a>
 
 <https://www.youtube.com/watch?v=SYRwSyjD8oI>
 
@@ -107,8 +106,8 @@ How to ask smart questions as a software engineer:
 Map of modern software engineering:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zXqs6X0lzKI
-" target="_blank"><img src="http://img.youtube.com/vi/zXqs6X0lzKI/0.jpg"
-width="240" height="180" border="10" /></a>
+" target="_blank"><img src="./docs/assets/images/web-developer-map-thumb.jpeg"
+width="240" height="180"/></a>
 
 <https://www.youtube.com/watch?v=zXqs6X0lzKI>
 
