@@ -26,7 +26,7 @@ If you hit a block, consider the best search request to make on google and searc
 
 3. Clone the repo (this pulls down the instructions files to your own computer so you can edit them - you're going to add check marks to each instruction you complete)
 
-  - copy and paste github url from the right side <br><img src="./docs/assets/images/copy-url.jpeg" />
+  - copy and paste github url from the right side <br><img src="./docs/assets/images/copy-url.jpeg" width="300px" />
   - type in the following line into your command line and insert your copies url as shown below:
   ```
   git clone THE_URL_YOU_COPIED
@@ -50,7 +50,7 @@ That means you need to `git add` and `git commit` then `git push` your progress 
 2. Check the status of your work by typing ```git status``` in the command line (terminal). This will check whether you have made any changes. Here we've modified precourse-unit-1.md ![](./docs/assets/images/git-status.png)
 
 3. Add your changes to 'prepare' them for saving a version using the command `git add`. Explicitly add your files one by one, you can do this by passing more than one file or folder to the `git add` command `git add file1.js file2.js` ![](./docs/assets/images/git-add.png)
-> The command `git add .` adds all changes in the current directory, and while it might seem helpful, it's actually very easy to cause major headaches for you. In other words: **DO NOT DO THIS**
+> The command `git add .` adds all changes in the current directory, and while it might seem helpful, it can easily cause major headaches for you. In other words: **DO NOT DO THIS**
 
 
 4. Now check the status - your file you've updated should have turned green! ![](./docs/assets/images/git-status-after.png)
