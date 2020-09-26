@@ -31,7 +31,7 @@
 - [Object Definitions](http://www.w3schools.com/js/js_object_definition.asp)
 
 ##### Pass by Value vs. Pass by Reference
-- [Value vs. Reference](/ReferenceValue.md)
+- [Value vs. Reference](ReferenceValue.md)
 
 ## Operators
 
