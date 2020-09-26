@@ -39,6 +39,8 @@ Let’s create an <em>object</em>. We’ll call it `lamp`. And then, much like w
 
 `flashlight` also now lives in memory, but the way it’s being stored is somewhat different. The label we’ve assigned to it does not refer to the actual content of the object; rather, it directs us to the specific <em>memory address</em> at which the object is being stored.
 
+<img src="/docs/assets/images/reference-img1.png" width="50%" height="50%"/>
+
 Now, what will happen if we try to change the ‘on’ property on `flashlight`? If we console.log `flashlight`, we’d see that `on` has indeed been updated to reflect the change that we’ve made. If we console.log `lamp`, however…
 
 `flashlight.on = true;`<br>
@@ -49,11 +51,9 @@ It looks like the ‘on’ property on `lamp` is now set to true as well! What�
 
 Understand that when you assigned `flashlight` to equal `lamp`, what you actually did was to give `flashlight` the value of *the specific memory address that `lamp` was referencing*. The object in question has, in fact, only been stored once—but now it has two labels pointing to it. Thus, if you use either one of those variable names to mutate this object, the changes will be reflected in the other variable name as well. Because technically, `flashlight` and `lamp` are the same.
 
-<img src="/docs/assets/images/reference-img1.png" width="50%" height="50%"/>
+<img src="/docs/assets/images/reference-img2.png" width="50%" height="50%"/>
 
 If you wish to instead make a *separate copy* of an object or array, you must do so very explicitly. JavaScript gives us a few ways to do this. We could do so using the spread operator syntax {…object}, or Object.assign({}, object), or in the case of arrays, calling array.slice() without any arguments. (Note that things become rather more complicated when dealing with composites that are *nested within* each other, i.e. multidimensional arrays or objects. In this case, these methods alone will not be enough; since every inner array or object will *also* be passed by reference, we need to take extra caution to ensure that we’re explicitly copying all of them!)
-
-<img src="/docs/assets/images/reference-img2.png" width="50%" height="50%"/>
 
 Let’s ask another question now: what would happen if we were to reassign `flashlight` to something else entirely, as in the code snippet below? What would the value of our `lamp` be now, if we were to console.log it?
 
