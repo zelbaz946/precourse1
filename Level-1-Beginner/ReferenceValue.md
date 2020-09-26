@@ -68,7 +68,7 @@ As a final example, let’s declare one more variable, called `crayon`, and assi
 
 `let flashlight = { color: ‘violet’ };`<br>
 `let crayon = flashlight.color;`<br>
-`console.log(toaster);` *`// ‘violet’`*<br>
+`console.log(crayon);` *`// ‘violet’`*<br>
 `crayon = 'lavender';`<br>
 `console.log(crayon);` *`// 'lavender'`*<br>
 `console.log(flashlight.color);` *`// ‘violet’`*<br>
