@@ -8,7 +8,7 @@
 
 - A review of pre-application basics
 - Variables and Data Types
-- Pass by Reference vs Pass by Value
+- Pass by Value vs Pass by Reference
 - Operators
 - Functions
 - Control flow (conditions - if/else)
