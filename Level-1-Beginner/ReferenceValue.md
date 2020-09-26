@@ -70,7 +70,7 @@ As a final example, let’s declare one more variable, called `crayon`, and assi
 `let crayon = flashlight.color;`<br>
 `console.log(toaster);` *`// ‘violet’`*<br>
 `crayon = 'lavender';`<br>
-`console.log(crayon);` *`// 'lavender'`<br>
+`console.log(crayon);` *`// 'lavender'`*<br>
 `console.log(flashlight.color);` *`// ‘violet’`*<br>
 
 Again, nothing has happened! Our object hasn’t changed. Its ‘color’ property is a string, which, again, is passed by value—so in assigning `crayon` to `flashlight.color`, we’ve actually just made a copy.
