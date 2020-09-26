@@ -44,8 +44,8 @@ Let’s create an <em>object</em>. We’ll call it `lamp`. And then, much like w
 Now, what will happen if we try to change the ‘on’ property on `flashlight`? If we console.log `flashlight`, we’d see that `on` has indeed been updated to reflect the change that we’ve made. If we console.log `lamp`, however…
 
 `flashlight.on = true;`<br>
-`console.log(flashlight) // { voltage: 100, on: true };`<br>
-`console.log(lamp) // { voltage: 100, on: true };`
+`console.log(flashlight);` *`// { voltage: 100, on: true }`*<br>
+`console.log(lamp);` *`// { voltage: 100, on: true }`*
 
 It looks like the ‘on’ property on `lamp` is now set to true as well! What’s happened here?
 
@@ -58,7 +58,7 @@ If you wish to instead make a *separate copy* of an object or array, you must do
 Let’s ask another question now: what would happen if we were to reassign `flashlight` to something else entirely, as in the code snippet below? What would the value of our `lamp` be now, if we were to console.log it?
 
 `let flashlight = { color: ‘violet’ };`<br>
-`console.log(lamp) // { voltage: 100, on: true };`
+`console.log(lamp);` *`// { voltage: 100, on: true }`*
 
 That’s right—this time, `lamp` hasn’t changed! When we *reassign* `flashlight` (as opposed to mutating it), all we’re changing is the value of that particular label. So while `flashlight` is now associated with a different object somewhere else in memory, `lamp` hasn’t been affected, and it still references what it originally did.
 
@@ -68,10 +68,10 @@ As a final example, let’s declare one more variable, called `crayon`, and assi
 
 `let flashlight = { color: ‘violet’ };`<br>
 `let crayon = flashlight.color;`<br>
-`console.log(toaster); // ‘violet’`<br>
+`console.log(toaster);` *`// ‘violet’`*<br>
 `crayon = lavender;`<br>
 `console.log(crayon); // lavender`<br>
-`console.log(flashlight.color);  // ‘violet’`<br>
+`console.log(flashlight.color);` *`// ‘violet’`*<br>
 
 Again, nothing has happened! Our object hasn’t changed. Its ‘color’ property is a string, which, again, is passed by value—so in assigning `crayon` to `flashlight.color`, we’ve actually just made a copy.
 
