@@ -10,7 +10,7 @@ Let’s declare a variable—we’ll call it `tree`—and assign it the value of
 
 The label `tree` now refers to the string ‘oak’, and that string will be stored someplace in memory. In the diagram below, let’s say that it lives at the address 128.
 
-![](/docs/assets/images/value-img1.png)
+<img src="/docs/assets/images/value-img1.png" width="50%" height="50%"/>
 
 Now, let’s declare another variable—
 
@@ -18,13 +18,13 @@ Now, let’s declare another variable—
 
 —and assign it to equal our first string, `tree`. In memory, we now have two distinct variables, `tree` and `table`, both of which are storing the string “oak”.
 
-![](/docs/assets/images/value-img2.png)
+<img src="/docs/assets/images/value-img2.png" width="50%" height="50%"/>
 
 When we initialized `table` in the snippet above, what we’ve effectively done was to create a copy of `tree`’s value and assign it to the label `table`.
 
 But let’s say we now want our `table` to be made of maple wood rather than oak, so we reassign it accordingly. If we were to now console.log our two variables, we’d see that `table` is now ‘maple’, while `tree` has remained the same. Because `table` was never anything more than a copy of `tree`, nothing we do to it will ever have any effect on `tree`.
 
-![](/docs/assets/images/value-img3.png)
+<img src="/docs/assets/images/value-img3.png" width="50%" height="50%"/>
 
 This is what it means for something to be passed by value. The label assigned to that variable refers to the value that it holds.
 
@@ -49,11 +49,11 @@ It looks like the ‘on’ property on `lamp` is now set to true as well! What�
 
 Understand that when you assigned `flashlight` to equal `lamp`, what you actually did was to give `flashlight` the value of *the specific memory address that `lamp` was referencing*. The object in question has, in fact, only been stored once—but now it has two labels pointing to it. Thus, if you use either one of those variable names to mutate this object, the changes will be reflected in the other variable name as well. Because technically, `flashlight` and `lamp` are the same.
 
-![](/docs/assets/images/reference-img1.png)
+<img src="/docs/assets/images/reference-img1.png" width="50%" height="50%"/>
 
 If you wish to instead make a *separate copy* of an object or array, you must do so very explicitly. JavaScript gives us a few ways to do this. We could do so using the spread operator syntax {…object}, or Object.assign({}, object), or in the case of arrays, calling array.slice() without any arguments. (Note that things become rather more complicated when dealing with composites that are *nested within* each other, i.e. multidimensional arrays or objects. In this case, these methods alone will not be enough; since every inner array or object will *also* be passed by reference, we need to take extra caution to ensure that we’re explicitly copying all of them!)
 
-![](/docs/assets/images/reference-img2.png)
+<img src="/docs/assets/images/reference-img2.png" width="50%" height="50%"/>
 
 Let’s ask another question now: what would happen if we were to reassign `flashlight` to something else entirely, as in the code snippet below? What would the value of our `lamp` be now, if we were to console.log it?
 
@@ -62,7 +62,7 @@ Let’s ask another question now: what would happen if we were to reassign `flas
 
 That’s right—this time, `lamp` hasn’t changed! When we *reassign* `flashlight` (as opposed to mutating it), all we’re changing is the value of that particular label. So while `flashlight` is now associated with a different object somewhere else in memory, `lamp` hasn’t been affected, and it still references what it originally did.
 
-![](/docs/assets/images/reference-img3.png)
+<img src="/docs/assets/images/reference-img3.png" width="50%" height="50%"/>
 
 As a final example, let’s declare one more variable, called `crayon`, and assign it to the value of `flashlight`’s ‘color’ property. After confirming that `crayon`’s value is indeed the string ‘violet’, we’ll change it to the string `lavender`. What will happen when we console.log `flashlight.color`?
 
