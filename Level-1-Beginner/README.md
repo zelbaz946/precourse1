@@ -8,6 +8,7 @@
 
 - A review of pre-application basics
 - Variables and Data Types
+- Pass by Value vs Pass by Reference
 - Operators
 - Functions
 - Control flow (conditions - if/else)
@@ -29,6 +30,9 @@
 - [Arrays](http://www.w3schools.com/js/js_arrays.asp)
 - [Objects](http://www.w3schools.com/js/js_objects.asp)
 - [Object Definitions](http://www.w3schools.com/js/js_object_definition.asp)
+
+## Pass by Value vs. Pass by Reference
+- [Value vs. Reference](ReferenceValue.md)
 
 ## Operators
 
