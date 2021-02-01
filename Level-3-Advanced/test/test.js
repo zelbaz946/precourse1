@@ -135,7 +135,7 @@ describe('Advanced Level Challenges...', function() {
     it('should sum up an array when start provided', function() {
       var add = function(tally, item) {return tally + item; };
       var total = reduce([1, 2, 3], add, 2);
-      expect(total).to.equal(8);
+      expect(total).to.equal(3);
     });
 
     it('should find the difference in an array when start provided', function() {
